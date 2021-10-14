@@ -102,6 +102,7 @@ class ModelsExplorer extends Controller {
             const modelInfo = modelsInfo[i];
             const modelId = modelInfo.id;
             const checkBox = document.getElementById("" + modelId);
+            alert("test");
             const span = document.getElementById("span-" + modelId);
             checkBox.addEventListener("click", () => {
                 if (checkBox.checked) {
