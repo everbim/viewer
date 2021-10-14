@@ -1,4 +1,4 @@
-import {math, ContextMenu} from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
+import { math, ContextMenu } from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
 
 /**
  * @private
@@ -19,7 +19,7 @@ class ObjectContextMenu extends ContextMenu {
         if (this._bimViewer._enablePropertiesInspector) {
             showObjectItems.push(...[{
                 getTitle: (context) => {
-                    return context.viewer.localeService.translate("objectContextMenu.inspectProperties") || "Inspect Properties";
+                    return context.viewer.localeService.translate("objectContextMenu.inspectProperties") || "Inspect Propertiessss";
                 },
                 doAction: (context) => {
                     const objectId = context.entity.id;
@@ -28,20 +28,17 @@ class ObjectContextMenu extends ContextMenu {
             }]);
         }
 
-        showObjectItems.push(...[
-            {
-                getTitle: (context) => {
-                    return context.viewer.localeService.translate("objectContextMenu.showInTree") || "Show in Explorer";
-                },
-                doAction: (context) => {
-                    const objectId = context.entity.id;
-                    context.showObjectInExplorers(objectId);
-                }
+        showObjectItems.push(...[{
+            getTitle: (context) => {
+                return context.viewer.localeService.translate("objectContextMenu.showInTree") || "Show in Explorer";
+            },
+            doAction: (context) => {
+                const objectId = context.entity.id;
+                context.showObjectInExplorers(objectId);
             }
-        ]);
+        }]);
 
-        focusObjectItems.push(...[
-            {
+        focusObjectItems.push(...[{
                 getTitle: (context) => {
                     return context.viewer.localeService.translate("objectContextMenu.viewFit") || "View Fit";
                 },
@@ -55,7 +52,7 @@ class ObjectContextMenu extends ContextMenu {
                         aabb: entity.aabb,
                         duration: 0.5
                     }, () => {
-                        setTimeout(function () {
+                        setTimeout(function() {
                             scene.setObjectsHighlighted(scene.highlightedObjectIds, false);
                         }, 500);
                     });
@@ -81,9 +78,7 @@ class ObjectContextMenu extends ContextMenu {
 
         this.items = [
             showObjectItems,
-            focusObjectItems,
-            [
-                {
+            focusObjectItems, [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("objectContextMenu.hide") || "Hide";
                     },
@@ -142,8 +137,7 @@ class ObjectContextMenu extends ContextMenu {
                     }
                 }
             ],
-            [
-                {
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("objectContextMenu.xray") || "X-Ray";
                     },
@@ -210,8 +204,7 @@ class ObjectContextMenu extends ContextMenu {
                     }
                 }
             ],
-            [
-                {
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("objectContextMenu.select") || "Select";
                     },
@@ -246,21 +239,19 @@ class ObjectContextMenu extends ContextMenu {
                     }
                 }
             ],
-            [
-                {
-                    getTitle: (context) => {
-                        return context.viewer.localeService.translate("objectContextMenu.clearSlices") || "Clear Slices";
-                    },
-                    getEnabled: (context) => {
-                        return (context.bimViewer.getNumSections() > 0);
-                    },
-                    doAction: (context) => {
-                        context.bimViewer.clearSections();
-                    }
+            [{
+                getTitle: (context) => {
+                    return context.viewer.localeService.translate("objectContextMenu.clearSlices") || "Clear Slices";
+                },
+                getEnabled: (context) => {
+                    return (context.bimViewer.getNumSections() > 0);
+                },
+                doAction: (context) => {
+                    context.bimViewer.clearSections();
                 }
-            ]
+            }]
         ];
     }
 }
 
-export {ObjectContextMenu};
+export { ObjectContextMenu };

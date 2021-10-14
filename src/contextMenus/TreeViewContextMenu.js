@@ -1,4 +1,4 @@
-import {math, ContextMenu} from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
+import { math, ContextMenu } from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
 
 const tempVec3 = math.vec3();
 
@@ -21,7 +21,7 @@ class TreeViewContextMenu extends ContextMenu {
         if (this._bimViewer._enablePropertiesInspector) {
             showObjectItems.push({
                 getTitle: (context) => {
-                    return context.viewer.localeService.translate("treeViewContextMenu.inspectProperties") || "Inspect Properties";
+                    return context.viewer.localeService.translate("treeViewContextMenu.inspectProperties") || "Inspect Propertiesss";
                 },
                 getShown(context) {
                     return !!context.viewer.metaScene.metaObjects[context.treeViewNode.objectId];
@@ -33,12 +33,11 @@ class TreeViewContextMenu extends ContextMenu {
             });
         }
 
-        focusObjectItems.push(...[
-            {
+        focusObjectItems.push(...[{
                 getTitle: (context) => {
                     return context.viewer.localeService.translate("treeViewContextMenu.viewFit") || "View Fit";
                 },
-                doAction: function (context) {
+                doAction: function(context) {
                     const viewer = context.viewer;
                     const scene = viewer.scene;
                     const objectIds = [];
@@ -54,7 +53,7 @@ class TreeViewContextMenu extends ContextMenu {
                         aabb: aabb,
                         duration: 0.5
                     }, () => {
-                        setTimeout(function () {
+                        setTimeout(function() {
                             scene.setObjectsHighlighted(scene.highlightedObjectIds, false);
                         }, 500);
                     });
@@ -65,7 +64,7 @@ class TreeViewContextMenu extends ContextMenu {
                 getTitle: (context) => {
                     return context.viewer.localeService.translate("treeViewContextMenu.viewFitAll") || "View Fit All";
                 },
-                doAction: function (context) {
+                doAction: function(context) {
                     const viewer = context.viewer;
                     const scene = viewer.scene;
                     const sceneAABB = scene.getAABB(scene.visibleObjectIds);
@@ -80,46 +79,41 @@ class TreeViewContextMenu extends ContextMenu {
 
         this.items = [
             showObjectItems,
-            focusObjectItems,
-            [
-                {
-                    getTitle: (context) => {
-                        return context.viewer.localeService.translate("treeViewContextMenu.isolate") || "Isolate";
-                    },
-                    doAction: function (context) {
-                        const viewer = context.viewer;
-                        const scene = viewer.scene;
-                        const objectIds = [];
-                        context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
-                            if (treeViewNode.objectId) {
-                                objectIds.push(treeViewNode.objectId);
-                            }
-                        });
-                        const aabb = scene.getAABB(objectIds);
+            focusObjectItems, [{
+                getTitle: (context) => {
+                    return context.viewer.localeService.translate("treeViewContextMenu.isolate") || "Isolate";
+                },
+                doAction: function(context) {
+                    const viewer = context.viewer;
+                    const scene = viewer.scene;
+                    const objectIds = [];
+                    context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
+                        if (treeViewNode.objectId) {
+                            objectIds.push(treeViewNode.objectId);
+                        }
+                    });
+                    const aabb = scene.getAABB(objectIds);
 
-                        viewer.cameraControl.pivotPos = math.getAABB3Center(aabb, tempVec3);
+                    viewer.cameraControl.pivotPos = math.getAABB3Center(aabb, tempVec3);
 
-                        scene.setObjectsXRayed(scene.xrayedObjectIds, false);
-                        scene.setObjectsVisible(scene.visibleObjectIds, false);
-                        // scene.setObjectsPickable(scene.objectIds, false);
-                        scene.setObjectsSelected(scene.selectedObjectIds, false);
+                    scene.setObjectsXRayed(scene.xrayedObjectIds, false);
+                    scene.setObjectsVisible(scene.visibleObjectIds, false);
+                    // scene.setObjectsPickable(scene.objectIds, false);
+                    scene.setObjectsSelected(scene.selectedObjectIds, false);
 
-                        scene.setObjectsVisible(objectIds, true);
-                        // scene.setObjectsPickable(objectIds, true);
+                    scene.setObjectsVisible(objectIds, true);
+                    // scene.setObjectsPickable(objectIds, true);
 
-                        viewer.cameraFlight.flyTo({
-                            aabb: aabb
-                        }, () => {
-                        });
-                    }
+                    viewer.cameraFlight.flyTo({
+                        aabb: aabb
+                    }, () => {});
                 }
-            ],
-            [
-                {
+            }],
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.hide") || "Hide";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -134,7 +128,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.hideOthers") || "Hide Others";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         scene.setObjectsVisible(scene.visibleObjectIds, false);
                         scene.setObjectsPickable(scene.xrayedObjectIds, true);
@@ -153,20 +147,19 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.hideAll") || "Hide All";
                     },
-                    getEnabled: function (context) {
+                    getEnabled: function(context) {
                         return (context.viewer.scene.visibleObjectIds.length > 0);
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.viewer.scene.setObjectsVisible(context.viewer.scene.visibleObjectIds, false);
                     }
                 }
             ],
-            [
-                {
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.show") || "Show";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -186,7 +179,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.showOthers") || "Shows Others";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         scene.setObjectsVisible(scene.objectIds, true);
                         scene.setObjectsPickable(scene.xrayedObjectIds, true);
@@ -205,11 +198,11 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.showAll") || "Show All";
                     },
-                    getEnabled: function (context) {
+                    getEnabled: function(context) {
                         const scene = context.viewer.scene;
                         return ((scene.numVisibleObjects < scene.numObjects) || (context.viewer.scene.numXRayedObjects > 0));
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         scene.setObjectsVisible(scene.objectIds, true);
                         scene.setObjectsPickable(scene.xrayedObjectIds, true);
@@ -217,12 +210,11 @@ class TreeViewContextMenu extends ContextMenu {
                     }
                 }
             ],
-            [
-                {
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.xray") || "X-Ray";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -240,7 +232,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.undoXray") || "Undo X-Ray";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -256,7 +248,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.xrayOthers") || "X-Ray Others";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         scene.setObjectsVisible(scene.objectIds, true);
                         scene.setObjectsPickable(scene.objectIds, false);
@@ -277,7 +269,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.xrayAll") || "X-Ray All";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         scene.setObjectsVisible(scene.objectIds, true);
                         scene.setObjectsXRayed(scene.objectIds, true);
@@ -289,10 +281,10 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.xrayNone") || "X-Ray None";
                     },
-                    getEnabled: function (context) {
+                    getEnabled: function(context) {
                         return (context.viewer.scene.numXRayedObjects > 0);
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         const scene = context.viewer.scene;
                         const xrayedObjectIds = scene.xrayedObjectIds;
                         scene.setObjectsPickable(xrayedObjectIds, true);
@@ -300,12 +292,11 @@ class TreeViewContextMenu extends ContextMenu {
                     }
                 }
             ],
-            [
-                {
+            [{
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.select") || "Select";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -321,7 +312,7 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.undoSelect") || "Undo Select";
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.treeViewPlugin.withNodeTree(context.treeViewNode, (treeViewNode) => {
                             if (treeViewNode.objectId) {
                                 const entity = context.viewer.scene.objects[treeViewNode.objectId];
@@ -336,28 +327,27 @@ class TreeViewContextMenu extends ContextMenu {
                     getTitle: (context) => {
                         return context.viewer.localeService.translate("treeViewContextMenu.selectNone") || "Select None";
                     },
-                    getEnabled: function (context) {
+                    getEnabled: function(context) {
                         return (context.viewer.scene.numSelectedObjects > 0);
                     },
-                    doAction: function (context) {
+                    doAction: function(context) {
                         context.viewer.scene.setObjectsSelected(context.viewer.scene.selectedObjectIds, false);
                     }
                 }
             ],
-            [
-                {
-                    getTitle: (context) => {
-                        return context.viewer.localeService.translate("treeViewContextMenu.clearSlices") || "Clear Slices";
-                    },
-                    getEnabled: function (context) {
-                        return (context.bimViewer.getNumSections() > 0);
-                    },
-                    doAction: function (context) {
-                        context.bimViewer.clearSections();
-                    }
-                }]
+            [{
+                getTitle: (context) => {
+                    return context.viewer.localeService.translate("treeViewContextMenu.clearSlices") || "Clear Slices";
+                },
+                getEnabled: function(context) {
+                    return (context.bimViewer.getNumSections() > 0);
+                },
+                doAction: function(context) {
+                    context.bimViewer.clearSections();
+                }
+            }]
         ];
     }
 }
 
-export {TreeViewContextMenu};
+export { TreeViewContextMenu };
