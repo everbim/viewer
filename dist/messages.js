@@ -84,7 +84,7 @@ const messages = {
             "clearSlices": "Clear Slices"
         },
         "objectContextMenu": { // Context menu that appears when we right-click on an object in the 3D view
-            "viewFit": "View Fit object", // Menu option to position the camera to fit the object in view
+            "viewFit": "View Fiteee", // Menu option to position the camera to fit the object in view
             "viewFitAll": "View Fit All", // Menu option to position the camera to fit all objects in view
             "showInTree": "Show in Explorer", // Menu option to show the object in the Objects tab's tree
             "hide": "Hide", // Menu option to hide this object
@@ -101,7 +101,7 @@ const messages = {
             "clearSlices": "Clear Slices" // Menu option to delete all slices made with the Slicing tool
         },
         "treeViewContextMenu": { // Context menu that appears when we right-click an object node in the tree within in the "Objects" tab
-            "viewFit": "View Fit treeView", // Menu option to position the camera to fit the object in view
+            "viewFit": "View Fit", // Menu option to position the camera to fit the object in view
             "viewFitAll": "View Fit All", // Menu option to position the camera to fit all objects in view
             "isolate": "Isolate", // Menu option to hide all other objects and fit this object in view
             "hide": "Hide", // Menu option to hide this object

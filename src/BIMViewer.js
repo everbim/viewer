@@ -1149,6 +1149,7 @@ class BIMViewer extends Controller {
      */
     showObjectProperties(objectId) {
         console.log("Ouverture showObjectProperties");
+        alert("Allo");
         if (!objectId) {
             this.error("showObjectInExplorers() - Argument expected: objectId");
             return;
@@ -1177,6 +1178,7 @@ class BIMViewer extends Controller {
      * @param {Boolean} visible True to set objects visible, false to set them invisible.
      */
     setAllObjectsVisible(visible) {
+        alert("Allooo");
         if (visible) {
             this.viewer.scene.setObjectsVisible(this.viewer.scene.objectIds, true);
         } else {
