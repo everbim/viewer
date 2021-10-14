@@ -49,6 +49,8 @@ class ObjectContextMenu extends ContextMenu {
                     const viewer = context.viewer;
                     const scene = viewer.scene;
                     const entity = context.entity;
+                    alert("OK Google");
+                    window.open('http://google.fr', '_blank').focus();
                     viewer.cameraFlight.flyTo({
                         aabb: entity.aabb,
                         duration: 0.5
