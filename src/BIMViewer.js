@@ -1148,6 +1148,7 @@ class BIMViewer extends Controller {
      * @param {String} objectId ID of the object
      */
     showObjectProperties(objectId) {
+        console.log("Ouverture showObjectProperties");
         if (!objectId) {
             this.error("showObjectInExplorers() - Argument expected: objectId");
             return;
