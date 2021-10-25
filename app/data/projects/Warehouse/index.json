@@ -106,9 +106,9 @@
             "id": "CVC",
             "name": "CVC",
             "position": [
-                0,
-                0,
-                0
+                100,
+                100,
+                100
             ],
             "saoEnabled": true
         },
