@@ -137,13 +137,11 @@
             "Menuiseries",
             "Charpente_beton",
             "Couverture_bardage",
-            "Electricite",
             "Gros_oeuvre",
             "Portes",
             "VRD",
             "Panneaux_beton",
             "Fermetures_indus",
-            "CVC",
             "Charpente_metallique"
         ]
     }
