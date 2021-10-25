@@ -16,10 +16,22 @@ class ObjectContextMenu extends ContextMenu {
         const showObjectItems = [];
         const focusObjectItems = [];
 
+
+        showObjectItems.push(...[{
+            getTitle: (context) => {
+                return context.viewer.localeService.translate("objectContextMenu.moreinformation") || "More information";
+            },
+            doAction: (context) => {
+                const objectId = context.entity.id;
+                console.log(objectId);
+                window.open("https://hub.tech-and-dev.fr/version-test/equipment/" + objectId + "?tab=Overview");
+            }
+        }]);
+
         if (this._bimViewer._enablePropertiesInspector) {
             showObjectItems.push(...[{
                 getTitle: (context) => {
-                    return context.viewer.localeService.translate("objectContextMenu.inspectProperties") || "Inspect Propertiessss";
+                    return context.viewer.localeService.translate("objectContextMenu.inspectProperties") || "Inspect Properties";
                 },
                 doAction: (context) => {
                     const objectId = context.entity.id;
@@ -46,8 +58,6 @@ class ObjectContextMenu extends ContextMenu {
                     const viewer = context.viewer;
                     const scene = viewer.scene;
                     const entity = context.entity;
-                    alert("OK Gooogle");
-                    window.open('http://google.fr', '_blank').focus();
                     viewer.cameraFlight.flyTo({
                         aabb: entity.aabb,
                         duration: 0.5
