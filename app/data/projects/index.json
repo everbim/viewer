@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "Warehouse",
+      "name": "Warehouse"
+    },
+    {
       "id": "Dumont",
       "name": "Dumont"
     },

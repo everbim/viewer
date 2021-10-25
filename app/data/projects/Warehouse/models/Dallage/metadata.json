@@ -1,0 +1,1294 @@
+{
+  "id": "0001",
+  "projectId": "0GlXGtDfr7wx3vKXJNOI90",
+  "author": "",
+  "createdAt": "2020-10-08T15:29:38",
+  "schema": "IFC2X3",
+  "creatingApplication": "20200426_1515(x64) - Exporter 20.1.0.1 - Alternate UI 20.1.0.1",
+  "metaObjects": [
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI90",
+      "name": "0001",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI92",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "0GlXGtDfr7wx3vKXJNOI90"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI91",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "0GlXGtDfr7wx3vKXJNOI92"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGebnOu",
+      "name": "Level 7",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "1jo$dm4wb9V8Hc2vxenuR0",
+      "name": "Ramp:Ramp 20 cm:688545",
+      "type": "IfcRamp",
+      "parent": "0GlXGtDfr7wx3vKXGebnOu"
+    },
+    {
+      "id": "26e8MFGIP5KQG83sGzOt9f",
+      "name": "Ramp:Ramp 20 cm:688545:1",
+      "type": "IfcRampFlight",
+      "parent": "1jo$dm4wb9V8Hc2vxenuR0"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGebnG5",
+      "name": "Level 6",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "1jo$dm4wb9V8Hc2vxenuPP",
+      "name": "Ramp:Ramp 20 cm:688440",
+      "type": "IfcRamp",
+      "parent": "0GlXGtDfr7wx3vKXGebnG5"
+    },
+    {
+      "id": "03_cgCo7D41QnL5PF901I_",
+      "name": "Ramp:Ramp 20 cm:688440:1",
+      "type": "IfcRampFlight",
+      "parent": "1jo$dm4wb9V8Hc2vxenuPP"
+    },
+    {
+      "id": "1jo$dm4wb9V8Hc2vxenuO3",
+      "name": "Ramp:Ramp 20 cm:688482",
+      "type": "IfcRamp",
+      "parent": "0GlXGtDfr7wx3vKXGebnG5"
+    },
+    {
+      "id": "3Ap2mqgtH7weh_3nu59Jxa",
+      "name": "Ramp:Ramp 20 cm:688482:1",
+      "type": "IfcRampFlight",
+      "parent": "1jo$dm4wb9V8Hc2vxenuO3"
+    },
+    {
+      "id": "1jo$dm4wb9V8Hc2vxenuOM",
+      "name": "Ramp:Ramp 20 cm:688503",
+      "type": "IfcRamp",
+      "parent": "0GlXGtDfr7wx3vKXGebnG5"
+    },
+    {
+      "id": "0eHjZpC_rE28v0nuRGHFYm",
+      "name": "Ramp:Ramp 20 cm:688503:1",
+      "type": "IfcRampFlight",
+      "parent": "1jo$dm4wb9V8Hc2vxenuOM"
+    },
+    {
+      "id": "1jo$dm4wb9V8Hc2vxenuRj",
+      "name": "Ramp:Ramp 20 cm:688524",
+      "type": "IfcRamp",
+      "parent": "0GlXGtDfr7wx3vKXGebnG5"
+    },
+    {
+      "id": "1p0faLOY906fg8OZ8DuN8d",
+      "name": "Ramp:Ramp 20 cm:688524:1",
+      "type": "IfcRampFlight",
+      "parent": "1jo$dm4wb9V8Hc2vxenuRj"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGedkw$",
+      "name": "0-Ground",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry4u",
+      "name": "Floor:Industrial Floor - 16 cm:637988",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry5G",
+      "name": "Floor:Industrial Floor - 16 cm:638028",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry5o",
+      "name": "Floor:Industrial Floor - 16 cm:638062",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry64",
+      "name": "Floor:Industrial Floor - 16 cm:638104",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry6c",
+      "name": "Floor:Industrial Floor - 16 cm:638138",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry73",
+      "name": "Floor:Industrial Floor - 16 cm:638175",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry0V",
+      "name": "Floor:Industrial Floor - 16 cm:638211",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry0x",
+      "name": "Floor:Industrial Floor - 16 cm:638247",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry1N",
+      "name": "Floor:Industrial Floor - 16 cm:638283",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry2U",
+      "name": "Floor:Industrial Floor - 16 cm:638338",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry2w",
+      "name": "Floor:Industrial Floor - 16 cm:638374",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry3M",
+      "name": "Floor:Industrial Floor - 16 cm:638410",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry3s",
+      "name": "Floor:Industrial Floor - 16 cm:638442",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryCI",
+      "name": "Floor:Industrial Floor - 16 cm:638478",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryCe",
+      "name": "Floor:Industrial Floor - 16 cm:638516",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryD4",
+      "name": "Floor:Industrial Floor - 16 cm:638552",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryDW",
+      "name": "Floor:Industrial Floor - 16 cm:638588",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryEy",
+      "name": "Floor:Industrial Floor - 16 cm:638624",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryFK",
+      "name": "Floor:Industrial Floor - 16 cm:638664",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryFl",
+      "name": "Floor:Industrial Floor - 16 cm:638707",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry8B",
+      "name": "Floor:Industrial Floor - 16 cm:638743",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry8d",
+      "name": "Floor:Industrial Floor - 16 cm:638779",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdry9$",
+      "name": "Floor:Industrial Floor - 16 cm:638819",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryAP",
+      "name": "Floor:Industrial Floor - 16 cm:638853",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryAr",
+      "name": "Floor:Industrial Floor - 16 cm:638889",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1ln3xtLfTCwP8w4YQdryBY",
+      "name": "Floor:Industrial Floor - 20 cm:638974",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1xNrTbHg5A_vQEkp5qTT3u",
+      "name": "Floor:Industrial Floor - 20 cm:639041",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1xNrTbHg5A_vQEkp5qTT3Q",
+      "name": "Floor:Industrial Floor - 20 cm:639075",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2hacWsmBL4C8TE7M3vVNfx",
+      "name": "Floor:Industrial Floor - 15 cm:639105",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2hacWsmBL4C8TE7M3vVNlB",
+      "name": "Floor:Industrial Floor - 15 cm:639281",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3XoKMIvtX7AwOJWNXhRMOo",
+      "name": "Floor:Industrial Floor - 13 cm:640622",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3XoKMIvtX7AwOJWNXhRMQn",
+      "name": "Floor:Industrial Floor - 13 cm:640749",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3XoKMIvtX7AwOJWNXhRMTo",
+      "name": "Floor:Industrial Floor - 13 cm:640814",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2xnF1HKvL3gPDIBGI$GeHB",
+      "name": "Floor:Industrial Floor - 16 cm:640850",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2xnF1HKvL3gPDIBGI$GeJX",
+      "name": "Floor:Industrial Floor - 16 cm:641016",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2xnF1HKvL3gPDIBGI$Get$",
+      "name": "Floor:Industrial Floor - 16 cm:642790",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "25NOqLEDjA1BtJwjUMoAaR",
+      "name": "Floor:Industrial Floor - 16 cm:643050",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "25NOqLEDjA1BtJwjUMoBUX",
+      "name": "Floor:Industrial Floor - 16 cm:643408",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "25NOqLEDjA1BtJwjUMoBUV",
+      "name": "Floor:Industrial Floor - 16 cm:643438",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA4s",
+      "name": "Floor:Industrial Floor - 18 cm:677839",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA4b",
+      "name": "Floor:Industrial Floor - 18 cm:677852",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAx6",
+      "name": "Floor:Industrial Floor - 18 cm:677951",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAwo",
+      "name": "Floor:Industrial Floor - 18 cm:677963",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAwX",
+      "name": "Floor:Industrial Floor - 18 cm:677976",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA$z",
+      "name": "Floor:Industrial Floor - 18 cm:678148",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA$s",
+      "name": "Floor:Industrial Floor - 18 cm:678159",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA_f",
+      "name": "Floor:Industrial Floor - 18 cm:678224",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA_b",
+      "name": "Floor:Industrial Floor - 18 cm:678236",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTA_G",
+      "name": "Floor:Industrial Floor - 18 cm:678249",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAyJ",
+      "name": "Floor:Industrial Floor - 18 cm:678378",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAyA",
+      "name": "Floor:Industrial Floor - 18 cm:678387",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAy5",
+      "name": "Floor:Industrial Floor - 18 cm:678396",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAp$",
+      "name": "Floor:Industrial Floor - 18 cm:678406",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTApf",
+      "name": "Floor:Industrial Floor - 18 cm:678416",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTApK",
+      "name": "Floor:Industrial Floor - 18 cm:678445",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTApF",
+      "name": "Floor:Industrial Floor - 18 cm:678454",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAp6",
+      "name": "Floor:Industrial Floor - 18 cm:678463",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAom",
+      "name": "Floor:Industrial Floor - 18 cm:678473",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAog",
+      "name": "Floor:Industrial Floor - 18 cm:678483",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAoL",
+      "name": "Floor:Industrial Floor - 18 cm:678508",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAoC",
+      "name": "Floor:Industrial Floor - 18 cm:678517",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAo7",
+      "name": "Floor:Industrial Floor - 18 cm:678526",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAnn",
+      "name": "Floor:Industrial Floor - 18 cm:678536",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAnh",
+      "name": "Floor:Industrial Floor - 18 cm:678546",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAnK",
+      "name": "Floor:Industrial Floor - 18 cm:678573",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAnF",
+      "name": "Floor:Industrial Floor - 18 cm:678582",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAn6",
+      "name": "Floor:Industrial Floor - 18 cm:678591",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAmm",
+      "name": "Floor:Industrial Floor - 18 cm:678601",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAmg",
+      "name": "Floor:Industrial Floor - 18 cm:678611",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAmN",
+      "name": "Floor:Industrial Floor - 18 cm:678638",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAmE",
+      "name": "Floor:Industrial Floor - 18 cm:678647",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAtv",
+      "name": "Floor:Industrial Floor - 18 cm:678656",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAtp",
+      "name": "Floor:Industrial Floor - 18 cm:678666",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAtj",
+      "name": "Floor:Industrial Floor - 18 cm:678676",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAsh",
+      "name": "Floor:Industrial Floor - 18 cm:678738",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAqD",
+      "name": "Floor:Industrial Floor - 18 cm:678900",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAky",
+      "name": "Floor:Industrial Floor - 18 cm:679237",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UMd4JI8H6mRmB8N3XTAke",
+      "name": "Floor:Industrial Floor - 18 cm:679249",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9n5y",
+      "name": "Floor:Industrial Floor - 18 cm:680313",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9n6E",
+      "name": "Floor:Industrial Floor - 18 cm:680331",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9n6R",
+      "name": "Floor:Industrial Floor - 18 cm:680350",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9nvO",
+      "name": "Floor:Industrial Floor - 18 cm:683613",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9nvq",
+      "name": "Floor:Industrial Floor - 18 cm:683633",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9nxi",
+      "name": "Floor:Industrial Floor - 18 cm:683753",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9nxm",
+      "name": "Floor:Industrial Floor - 18 cm:683765",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9nyK",
+      "name": "Floor:Industrial Floor - 18 cm:683793",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mD6",
+      "name": "Floor:Industrial Floor - 18 cm:684867",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mD8",
+      "name": "Floor:Industrial Floor - 18 cm:684877",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mDI",
+      "name": "Floor:Industrial Floor - 18 cm:684887",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mDa",
+      "name": "Floor:Industrial Floor - 18 cm:684897",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mDk",
+      "name": "Floor:Industrial Floor - 18 cm:684907",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mEY",
+      "name": "Floor:Industrial Floor - 18 cm:684967",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mEq",
+      "name": "Floor:Industrial Floor - 18 cm:684977",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mE_",
+      "name": "Floor:Industrial Floor - 18 cm:684987",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mF0",
+      "name": "Floor:Industrial Floor - 18 cm:684997",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mFA",
+      "name": "Floor:Industrial Floor - 18 cm:685007",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mPu",
+      "name": "Floor:Industrial Floor - 18 cm:685693",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mQ2",
+      "name": "Floor:Industrial Floor - 18 cm:685703",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mQK",
+      "name": "Floor:Industrial Floor - 18 cm:685713",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mQU",
+      "name": "Floor:Industrial Floor - 18 cm:685723",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mQW",
+      "name": "Floor:Industrial Floor - 18 cm:685733",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mUE",
+      "name": "Floor:Industrial Floor - 18 cm:685963",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mUG",
+      "name": "Floor:Industrial Floor - 18 cm:685973",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mUQ",
+      "name": "Floor:Industrial Floor - 18 cm:685983",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mUi",
+      "name": "Floor:Industrial Floor - 18 cm:685993",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mUs",
+      "name": "Floor:Industrial Floor - 18 cm:686003",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mVk",
+      "name": "Floor:Industrial Floor - 18 cm:686059",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mVm",
+      "name": "Floor:Industrial Floor - 18 cm:686069",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mVw",
+      "name": "Floor:Industrial Floor - 18 cm:686079",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mWC",
+      "name": "Floor:Industrial Floor - 18 cm:686089",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mWM",
+      "name": "Floor:Industrial Floor - 18 cm:686099",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mXU",
+      "name": "Floor:Industrial Floor - 18 cm:686171",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mXW",
+      "name": "Floor:Industrial Floor - 18 cm:686181",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mXg",
+      "name": "Floor:Industrial Floor - 18 cm:686191",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mXy",
+      "name": "Floor:Industrial Floor - 18 cm:686201",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mY6",
+      "name": "Floor:Industrial Floor - 18 cm:686211",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mZ2",
+      "name": "Floor:Industrial Floor - 18 cm:686279",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mZK",
+      "name": "Floor:Industrial Floor - 18 cm:686289",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mZU",
+      "name": "Floor:Industrial Floor - 18 cm:686299",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mZW",
+      "name": "Floor:Industrial Floor - 18 cm:686309",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mZg",
+      "name": "Floor:Industrial Floor - 18 cm:686319",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9may",
+      "name": "Floor:Industrial Floor - 18 cm:686393",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mb6",
+      "name": "Floor:Industrial Floor - 18 cm:686403",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mb8",
+      "name": "Floor:Industrial Floor - 18 cm:686413",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mbI",
+      "name": "Floor:Industrial Floor - 18 cm:686423",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mba",
+      "name": "Floor:Industrial Floor - 18 cm:686433",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mcY",
+      "name": "Floor:Industrial Floor - 18 cm:686503",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mcq",
+      "name": "Floor:Industrial Floor - 18 cm:686513",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mc_",
+      "name": "Floor:Industrial Floor - 18 cm:686523",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9md0",
+      "name": "Floor:Industrial Floor - 18 cm:686533",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mdA",
+      "name": "Floor:Industrial Floor - 18 cm:686543",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9meM",
+      "name": "Floor:Industrial Floor - 18 cm:686611",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9meO",
+      "name": "Floor:Industrial Floor - 18 cm:686621",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9meY",
+      "name": "Floor:Industrial Floor - 18 cm:686631",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9meq",
+      "name": "Floor:Industrial Floor - 18 cm:686641",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9me_",
+      "name": "Floor:Industrial Floor - 18 cm:686651",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mg4",
+      "name": "Floor:Industrial Floor - 18 cm:686721",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mgE",
+      "name": "Floor:Industrial Floor - 18 cm:686731",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mgG",
+      "name": "Floor:Industrial Floor - 18 cm:686741",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mgQ",
+      "name": "Floor:Industrial Floor - 18 cm:686751",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mgi",
+      "name": "Floor:Industrial Floor - 18 cm:686761",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mhQ",
+      "name": "Floor:Industrial Floor - 18 cm:686815",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mhi",
+      "name": "Floor:Industrial Floor - 18 cm:686825",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mhs",
+      "name": "Floor:Industrial Floor - 18 cm:686835",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mhu",
+      "name": "Floor:Industrial Floor - 18 cm:686845",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mi2",
+      "name": "Floor:Industrial Floor - 18 cm:686855",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mj2",
+      "name": "Floor:Industrial Floor - 18 cm:686919",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mjK",
+      "name": "Floor:Industrial Floor - 18 cm:686929",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mjU",
+      "name": "Floor:Industrial Floor - 18 cm:686939",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mjW",
+      "name": "Floor:Industrial Floor - 18 cm:686949",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mjg",
+      "name": "Floor:Industrial Floor - 18 cm:686959",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mkw",
+      "name": "Floor:Industrial Floor - 18 cm:687039",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mlC",
+      "name": "Floor:Industrial Floor - 18 cm:687049",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mlM",
+      "name": "Floor:Industrial Floor - 18 cm:687059",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mlO",
+      "name": "Floor:Industrial Floor - 18 cm:687069",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1Bv10WgfX4OPZnlhyP9mlY",
+      "name": "Floor:Industrial Floor - 18 cm:687079",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1W2XZHtIvDJgJQXN8OM40z",
+      "name": "Porte VUL detail1:Porte VUL detail:687310",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3Au8Mr2Nj0E89_yh8Dpqbz",
+      "name": "Point zero:Point zero:687420",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEryU",
+      "name": "Floor:Industrial Floor - 18 cm:699846",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfErta",
+      "name": "Floor:Industrial Floor - 18 cm:700220",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqAQ",
+      "name": "Floor:Industrial Floor - 18 cm:700482",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqE1",
+      "name": "Floor:Industrial Floor - 18 cm:700761",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqEw",
+      "name": "Floor:Industrial Floor - 18 cm:700770",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqEp",
+      "name": "Floor:Industrial Floor - 18 cm:700779",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqCe",
+      "name": "Floor:Industrial Floor - 18 cm:700912",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqCX",
+      "name": "Floor:Industrial Floor - 18 cm:700921",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEq3Q",
+      "name": "Floor:Industrial Floor - 18 cm:700930",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEq3a",
+      "name": "Floor:Industrial Floor - 18 cm:700988",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEq2V",
+      "name": "Floor:Industrial Floor - 18 cm:700999",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEq2A",
+      "name": "Floor:Industrial Floor - 18 cm:701010",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqVY",
+      "name": "Floor:Industrial Floor - 18 cm:701754",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqHT",
+      "name": "Floor:Industrial Floor - 18 cm:702085",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqGP",
+      "name": "Floor:Industrial Floor - 18 cm:702145",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "222KJ5diL5lQXbdEcfEqG7",
+      "name": "Floor:Industrial Floor - 18 cm:702175",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0I2PtMi8j1Pgm3RzNd4Cm0",
+      "name": "Floor:Industrial Floor - 16 cm:709363",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GOo",
+      "name": "Floor:Industrial Floor - 20 cm:710300",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GVJ",
+      "name": "Floor:Industrial Floor - 20 cm:710525",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GSo",
+      "name": "Floor:Industrial Floor - 20 cm:710556",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GSJ",
+      "name": "Floor:Industrial Floor - 20 cm:710589",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GTo",
+      "name": "Floor:Industrial Floor - 20 cm:710620",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GTL",
+      "name": "Floor:Industrial Floor - 20 cm:710651",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GYq",
+      "name": "Floor:Industrial Floor - 20 cm:710682",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GYL",
+      "name": "Floor:Industrial Floor - 20 cm:710715",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GZq",
+      "name": "Floor:Industrial Floor - 20 cm:710746",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6GZJ",
+      "name": "Floor:Industrial Floor - 20 cm:710781",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCNX6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCVX6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCRX6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYC7X6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCVX6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYCRX6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "2nFG5sZ3n4KQpsYC7X6Gf2",
+      "name": "Floor:Industrial Floor - 16 cm:711404",
+      "type": "IfcSlab",
+      "parent": "2nFG5sZ3n4KQpsYCNX6Gf2"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGedkEP",
+      "name": "1-First level",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "31KuH_bl5DoeqkLu2PseWn",
+      "name": "Floor:160mm Concrete With 60mm Metal Deck 3:656489",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkEP"
+    },
+    {
+      "id": "31KuH_bl5DoeqkLu2PsebD",
+      "name": "Floor:160mm Concrete With 60mm Metal Deck 3:656661",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkEP"
+    },
+    {
+      "id": "3_DVY7xlHAgfv5WBIy9jGL",
+      "name": "Floor:160mm Concrete With 60mm Metal Deck 3:663529",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkEP"
+    },
+    {
+      "id": "2VlsPJxifE193D5KykwrFC",
+      "name": "Floor:220mm Concrete With 55mm Metal Deck:665071",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkEP"
+    },
+    {
+      "id": "2VlsPJxifE193D5Kykwrj5",
+      "name": "Floor:220mm Concrete With 55mm Metal Deck:666982",
+      "type": "IfcSlab",
+      "parent": "0GlXGtDfr7wx3vKXGedkEP"
+    }
+  ]
+}

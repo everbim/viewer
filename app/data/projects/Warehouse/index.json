@@ -1,0 +1,40 @@
+{
+    "id": "Warehouse",
+    "name": "EverBim Warehouse",
+    "models": [
+        {
+            "id": "Dallage",
+            "name": "Dallage",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Charpente_metallique",
+            "name": "Charpente métallique",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        }
+    ],
+    "viewerConfigs": {
+        "externalMetadata": true,
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "Dallage",
+            "Charpente_metallique"
+        ]
+    }
+}
