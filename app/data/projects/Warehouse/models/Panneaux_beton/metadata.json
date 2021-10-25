@@ -1,0 +1,2962 @@
+{
+  "id": "5767 - STRUDAL SYSCO RUNGIS",
+  "projectId": "2DSEFK2z58FABt2opdiCdM",
+  "author": "David AUZANNEAU",
+  "createdAt": "2020-07-31T12:13:49",
+  "schema": "IFC2X3",
+  "creatingApplication": "Allplan 2018.1 23.08.2018 - 19:01:24",
+  "metaObjects": [
+    {
+      "id": "2DSEFK2z58FABt2opdiCdM",
+      "name": "5767 - STRUDAL SYSCO RUNGIS",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "2gtO$3Mlz5YvEwbKw6IbQm",
+      "name": "IFC",
+      "type": "IfcBuilding",
+      "parent": "2DSEFK2z58FABt2opdiCdM"
+    },
+    {
+      "id": "02VAGo1pTEEulaWcP5bleo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1ofH0d4hT6ZB4_$QkB_F0X",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1yOi$ct999UPt$HeYW07iL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0UZXu9R054uwBdqMZdsqdi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1A1I$SkEn5lx2wJrPpKGeA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0EeEfn$D96aekvtuOOHBjJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Nh0galXv8BRNcINGvjcq$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "14c4uRkdv6le3ozK1hoxLx",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3cgGyN4TzFZO4HRpqzWH_b",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3uIgVRbmjFrRC$ZD__Khxc",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1RI2EpjGT3xxaPg71k54eV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Cln1HiXT5O9OVU7DqAGfT",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ui2HdHUnA3fjRQGP6V9c8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3q07SbsW91ouIOMoeFkRIG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2dL3pSJmH2VubXo9maRkMa",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "173SpSyjX6vR_cejpm7kyh",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1NBDuGo7r99ehWzrjWXPdS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3GD2WJrw1EKhNXRK5zDV3a",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0e7$mm0sT7m8l8rE8auYom",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "32Y$92ygr9$8byYVuSKh$9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2rq1ZObq9ASeTzslohq25d",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0nVRiNhZXF6gFEwFP5Ay6x",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "24GrvXQMbBHhmZdRAAdkdQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "372eOeiY9AMvphVgH9PO$o",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Lodhw4zr6Xu7lpuhlCmi3",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2HzKM8HorD_QvKiQdps9QQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2xrpz7gnz7KeYpxavULIyQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1VvpqcicLAsOLoCoZjnLrU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3WZNxgPNDFuQqjKqyasL0v",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "19__cA_r57NBkrJnMd6A7d",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1N8VtEU3HAsvpPZScdAHZS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3FTak9VCf6dRxUyV7QM_up",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1c_hd2bFnEe8okdZFltExb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "08cw3xxAv4SgAUZoUouBE0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2LRbYmp3vDoAWtFmu3ibzR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0BJTGGjrv94RAE9JZu9aqr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0dm2s95bHChOy97r3cR9lK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2oACMORqjEGB5cASDIBy0K",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1QCIZHKJb58eQ2C5h5lEvS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "11wDepU6z6GfUP3L0y2OMr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3u4DxDKgz8Ogl2vgXPjvha",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "03WbtC3DT0BRj9nXzxGajf",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0HemWGpozDs8mS6G91dqSc",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3$A5lxXmj6mOnmC3tQdx2l",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2dQpQScC53uhpyNhiUsGBJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0bGi2dCRz86PYnB_ksu$2C",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "26sAabalT9$BeJKmtXKjdb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "35rAedws5EXB8Ey6ODvq1a",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1pDftrIDDEMeFp73cjJLaH",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3KYYZaCOf2SBbg$VbyF2hk",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3_uRPb7enEp8lMKcNFPuoe",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2aJtgiY6vAUQFis93xNA_X",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0I4wuPRQb9shE7naIxzLwO",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0icymootX6f8D4OIT5Gn5s",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2fCvxi5U51jvG1xh5NXlke",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0DkMcL7fX2Hx8XA33Fc9pP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2HFZUM8Q98m80gYNJgkSa5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0IwCJZoX9599Vp5TwcitvN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1q9hjoX15FsBojZtRJB59l",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0IbYPKq75FKBRsc04XRacz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2BqsBMFlLB_84lN2zc4qnH",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "07le39Qk17DPoRN$P88RCq",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0JMwtwoW90FgZnUs6brJ27",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "172VJYj7vEcRDV8qDi8_CN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Z8thrQln7rglF27UNn0xy",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2o9Yfr4zb1bfKt1NW5VWpp",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1jVL8rjYv23fbExjYnm7bN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0lQVQU$Eb3tgGGpdKsT0fu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0cusdkw050iuSCDIkowhDQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "06TE8hHZn8RuORku_yl$Te",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3k5gpZVSb0C9NrxAfk3mK$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3pSVs8sajDSxUZvDOly7oj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1FrEI$nQ98KhdScwGZDIbw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1CckDOZujDPOnJ3HmBH4TC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0i6WeHBTXCpO4GDG8Fr2IY",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2t6s9WXcD0KxrVjK9Lpi2_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2P50YOE7v35gTcBkSy4wk_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1u0HDlqq57wwKDEUNyJPK3",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1d$$Whkzv96xiciGbrfBl9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3$IgOBALT0ZQ5vWdby72EU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3F67ysHODCDQ3CSmD9XVnv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Pld5RV1P5HwkZ0pTE9cvG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0TUZJ9CMH1EeuiYwjGrrb2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0netxW38H7kPzGJiCj0DNj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1vbcysC0j8gQs9odQ4sAoK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3q4wxuz79BBP9gxDy585OP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1IuwDs_KL54OK825YGhQkg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0ZB35yPYj6xgK4RBs7Y7yw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Ta_2wyp1CsR2CV00GiAmX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2FawaX6n56zP62EX6EiUrK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2bASUP2FLAFxcO8xWKf9HL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2AioIlJOP2puLqS$URwxEa",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0t$MtsE$15ZP9R_s262nYt",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2n7_B9GFzE49frxm044LUp",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0dadcRMxr4bBSLkF3LAgo5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1r5zVSL1f1LfxbaS8Bz3fU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "02wjr9NQX05xxKoUOtfJYK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2kAhF$q$j2O9pebjZBxyGT",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1v4A3A_nr4pwCGYvx8hz9M",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2O4c_QMsDCSPrCLIJutsFi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3sDXlh5KvCfRqa_DdlD4CY",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2R0v$$mML2z9Ku4Ef3UvvB",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Y0uRVDXHClB6tch3nWGfr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "06Ro_apLX4YvqzJzNbMWO8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1deFRhjhv3_BEPUO$8bCN5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2xPBvzSBj8k8src5pgtXhk",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1TsK_u7Dn3hw2d54S1tOsA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3bZSgLKGzDcAaZFkh6t2PG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1itriwN5r1IhB2jXTWYxMC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3C_T3qZmjBBQKdQpJGvume",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "14Kq0vP8r8cwKl_zoLC5nn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2fSNsupFXFXvtvCHkeueUB",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1tox0wISv8$RT$2oQN3Ku2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0HD3QluBb6k84msQflvHDZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2rejrZzjf1OhZDTqXb6KGO",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0z0_hO58X4HBBUNReHzjZd",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3tOrX9Nlf5QxnLdvt1lm3u",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Kve8szZr9zR3I18x9H8yr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2PjRaWiknAexxyxUCzvm2S",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "37TrBnWFHFYeRGutMAkaov",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "31YW$oHq56GerYsbB1ZeO$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "25UL1m6EDAOeS3Ab2XhSOp",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0hgyDgDFPEp8ljtJ1AlZsE",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1selVuwvn1wRI9OxChJIQf",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ndsCEsBP3u8czpOHUZSxq",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "27eetD0ofEg9HHMr28JoKt",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2vFtR2V3PFIvLN6YDZAxqF",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1L_jj4I_bCFwuW0rCThMIR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3xzrDRcYrCEehYZt2tiP4g",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0PmI1T7H58494kQqkfzBvo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0BCMw473bAvRWMar44ul0r",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ky1b$GoD2fecDdkVLvl9S",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1RXeDaHYr50BUqPWDito7t",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Rn75$Fs99ygQx7fEhmEJI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3znl3RGQrF9f8h0Tfl5MjC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2nO1YDignA3uakrwmVFy8H",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2HWlEgXwXARezyq$NaPbLZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0g9KqGMPHBUhayaj2uH6nR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3byCOa_yP4vw4CMlsArob3",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3iYlLr5cjAZ9fmEoey$m6f",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1x6WkQM5DErQ1DEsQlqfOA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3xMZS7yyr2PxpEiuMsWCL3",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1sakLyvCPA_R4VfsUg8ACe",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2aDWAkeefFVufHvH4u04Dm",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3QlCyecir6AuF16civMQOa",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2p9O9m9jrD9evjCS4aq4od",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0nDUowtpv52fXOaeItD_Xw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Ae3fsQEL7XeTeo2eSWXt$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1NRi4r5512heJjo5P5PUY6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3jQTuvUsr65QnBsw6sagkM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0eC9DLzQf2hQ0hviOm25In",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "18toiqEB93h8b23nyp8nhT",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1xP9hV9bzB2BZ8FWsGodXZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Ez3pjoeLCghg34prGAguN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3WlaGmMnb9z8GZfRbC0uWR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1ALaKMPSP1IBBBDbY1ykfE",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3hN3r3Px93JPJQR3EtTql$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3i9iG0NbvDVvKJItcW1qOm",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3PIoV_v15B3w0rul3cFnmo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Fpz8k$cfF3Qi813gshd3P",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3aa0EepHD1xfOoO2XIXxaG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1WOUIR2DX9lwv31ZQDSmV1",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "27QlvX3Ab0Mv6Q_Qyo$Bkb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "33prP1ISTBjvoOcrN7AcjY",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Jr7DDOpb6P8viKbetKp7Z",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2bt5Zpg29DpA$bAzrbTcET",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1tJAAbuQz1BBEhT0vJMjKR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1D4V4KdfL2RRKNwhHdNlGF",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1adF8KAE13LA15GlJn3dsd",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1zYZbYrAT5wAQLux56aR6p",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ufgUSLFX0DwGxWk05CALi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Md4jEn5n1nfTbcMddjqQn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2v2K$UCMH3xxGhCMc4xYCs",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3D_$hTp29AAhYaUVHx09uA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "06qZOf1Bn5cQ8xbxYp2ZZg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0uiymzGeX0jxRSgEPjJxqI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0h75_npDr33OJSmXVvDcg6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Q6qdlcCrBMhqAtii8SgUI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0auq6ri8j5whDO8v7f4VCZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3lEv6pvInFZfu95Rk6fR$N",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0GPvVkVgPC0xiW_05etpt1",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2k1pBykUD9EvgITH243kq0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3hV0FocST2IfN0rU2i$d3B",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2MayOOZ5f8UPU8qZNCNiq6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "21rYXAKqXD9uQ4jRuAfhx1",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2WmZq3Ci121fpmLvN53J43",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "08Wj4E$4D3wv9xlfyhELBH",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1HF5z3lV57ORQNfH9B30ZS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ptj5HeAHBUeShuBE2L4Xg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2EQ0lRMAL7fuJ5ojl4sM7f",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2jFibFHvH3$eQF1SSYW5gS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2O5wgqfNn61QLpDpwc0DeZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3CFp6Hm8j6CfRsc7FuLym9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1OcVglM$H2UQQX$t320shL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3qW887u8rEABJagWCs3Z2O",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ayrb_xtD53epcNF8hahHw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1szmSzGp97igTQJxJWjcpY",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3cvbOrgeb5SwlfczB9Gs9g",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2pcb29I998M8GNVDU5Z7bl",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1d1f_lybn4hPERUIUXvsBM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2eTXdYUHD3Qvg95BPAZjB5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3JgSVsqAb2M8FqHyhux0VS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2lQCnUSBb9R9M91DI87Hlp",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0fTYnrQdvCqByw$UGIPabo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1wB5tn9DT1B8XDPiG0OPy8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1hVfSwwarFSgQzDTNY69xP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1FsdX1eQL9XvSlYStjyYID",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3b6o9hul5B0enwS9KDRODl",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0ZaE3e5312kghnhrodm75l",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1nA8QsiPXBYwiLU4tVv0Az",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "10dKC85ZH9pO2mhfaQH77P",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3DZBb_28HDlA9L8bmf2yF6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0n7QPULvn8_w9oA2tJl$II",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3VhIIjcxPABBiD1NxFC0tn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3$2Qph0L57DwkZxA5DGD_Q",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "28POR5vN18CPskr2mTj3TS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2xFoRloF57TBIRuppvnJwx",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0a_93Y3UbBducGl9cy$eEg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1JU_$f8jf8hxnzHinEKSHv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3VpMbENdTAoAFfFHdOjvRd",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1O7TRDhy53sBCMvZbLwJG5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3v37b9thrBKfoSotc7put2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2YgixlJo9FO9fWEUADgZ84",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2p4koG3VXEqPG_4DSEDqVD",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0J4bih5Br08uSXUe6R4TjC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2S7Uar7gL95xj1sQDfy91X",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2qCJaJR$bBAPn7lxE_hw5T",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3XdvOQPM51pf2gS8Mkb7B9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1nwZzKLUz6Eu7rH4juHqZU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0m6yTAHTH0f8qV_knMBd4e",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "36XBhE$aH5sB4gXGjQ41$H",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1QZDHLy6P7Bee9n0wMreTC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "11bZhB_HL70ecbffWLNuR6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3d7NKJzPn5fBj4nY4Rb_y5",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3$bTGHWor9guZWuhqa87tZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3pGe8I_8fEnw18UyHDsXtA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1GJkO0WSL8vPzQBQajkcSK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1enaEd4J12nx$Khz6OtPWu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3jhWAACcb0F8ZStUR79grf",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Y$KNAHRv4cA9Ocfquvf_L",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3lkp_IFLv0uxOhDtkOLNBb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "23hMlUWqX51hhpc2ahXWTg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ipjT3HhzFt8KeAszZ5j82",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1qExHXVrT8Eh41F9vzQwPD",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1I7g1_aSLFmPiHOFxNvWW_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0RGZAsllz0rg_rjSbRmrMI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1XBCDkCsv2MvkYUVe6LDlK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3CjXkO$6j1uB$VRgeYoL$n",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2S5z$Spr1A_9gKIVuPZ$0W",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "17$KIZ1Pn1UeE1YRgZMaBV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1uM_idimz5pgyj4REu1o$V",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3eGd$UYVbAhRhMpkK90iwG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3wVALVuEz2aOaJHLohNTeT",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1fpQZUZ4rBuOiOItZcP1TK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Q3O8i2TzDr8xF6YcGfgUC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2DyL$FTjf8uekviWn5cfQJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Sefu2gkn4Iuo7k46Awd0N",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0QEKI9kcTB6e1FEPbAwPhg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3AzPuU4FL6pxIJmyauH1Ud",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "14hTivXgHC9Qx_ELW4zA1S",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2UF2JeAtP5ExDO60Seh_Ok",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1f$JcYIdX1vOtRnriEaOI2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0E7btEhwHEDBxxGDxU6Z7d",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "12GVSG7Aj6EQV$Gt_fvbdy",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "23xXe1Zh5669GOjbunpf_o",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "19GYJAiEDEke8aR$BoRcZn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Xr6d9JRP1MQlw7mK22w66",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "09w84FIbX7Ef42py7lPBvU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3tDD4P731ApuYnnoypD__I",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0QjoM5aMPEw8UoyHHxsULJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3jzuT6AOD8pPq8dyzElYhu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0ua39Evrf0aPVI2T8$6V7l",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3f7p3S8JbCqvjmjGbQ5czX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ASfkAoT50DwAQ2bYOJeUK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0BhI9RCYXAEuVXTmZOMu5G",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3uEFcKi1b7Sw6b92NZKeJR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0y0oIlybPBhO2PrN0VAlFK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Xq7S4inj0qBH4vXU1O_8u",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "24g8SkfqnC$xxtTIlDgADA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3hXe4q8l96tfOxvhQvKVQ1",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1MvpMB2nT93Os4G5ke9YRH",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "21lBbgUzf5w9Ph9aTXYIxW",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0antYa2KjAERp5irA5uMyn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "27xKxQOAv2fhRUgVZxOqgx",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1GBIWubVD7teBuc7JjdC6P",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1unyGW1KzEh9aFHBtOFHtA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2_OT8_2LTBAvIzbM0jJVyA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0fJTWksvDArQYc8tFrSDWg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3ttEwIyBr66OfLJme0n3sz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3rPVsvrcf1CwPxnSUl8XvY",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2L_GEElzPE8evuX1m4LF7s",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2_HzYDMdXFieih32HKqQ5I",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1LEMTV7kT6pxTONFh7o5$s",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3jz7NcanP1sPaWbhz581LN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Z$TxCEzfBdfV9Vv6CIONQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0mnmyOieX6wvs9b7uIrbJz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2zNKythCH3vvYr9U$tRiaw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1gpqNAQWb6p81FLxwzvay7",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0RkOawZP970xMkmUbWiU3g",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "27q1Tl1pnDvOpj03e1UpXA",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0uikouGqb4hfSIW5o$Ro8_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "24rrB_WmH6cg3JBsjb6ZOr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "01TI2AThD8hQS5czARl8UZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Kx1l9i8T2XeeRAmIjiVpb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3y8ACXXGXD0O_Xu2HifrHz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3fSHR7VCnEV9uLu4sAwGKM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0V$OxuSiP1Qfl36io82WSI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3dTLKc8HP8KwJY0mExVbXv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3nCh0GGsXDZeLjFeaoVVhP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3XjNC2HRT4nR_3z8UQRcZl",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3NHxs$hFL4BgDevB_wFqwv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3PLIDxCGr7lOEYOejjkZNX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3o8orbplTDgOMwpCAa5D4Z",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1J3Ide87X5TvcLBkgzjX4A",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "277m4qp3rCcxMohSuc3WmS",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "15dwF8nGfBBwYJwaAhLPDV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1pBEQY1rr6SPMI7dSOc4ki",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1U7S6XP5bBrgOQO8mBOVgD",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1i9PF5CBT77PrOub67twlg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "35mb4gzdn7w8jNyvo1quaQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1tIEbwpzb02ALPQKaeJo9g",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0qARAVRoT8Z94zPzsRm1fN",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3PeoY_LkrESRf1Nce9bKJf",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "24nXyWPnb3eu1ZMyra1Lzi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3mpLSS32v3awNwnq_lampl",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3gh82cEO15uxDTGA26YlvV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "26ZF_weTD86xG8s$56aXaw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3I0e$M$wP88PitZnY5aDZB",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Gs0MbTJTEdPWOrRQP4HYu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0vkNMgD3H1g8wDl6IB_2yR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "22YUJIdkP6SO$D9EjeDLD8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2HHkXOsvvC2fwhpn8mVpv9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1B4U2GCbf3sBoIMrDgm8gC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0yI1P5clz1gR3$KRYH2H4r",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0beedkPsv7ExZ3Ao5U1IF_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "30EzhrVzz4gB2VXUBdXO5u",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3RHkfab558uwdR1zao38z7",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "28z4VJzyr1WOqc$ufnAPUU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Js7ggM5vFwfLeCyMjTaMc",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Qq5GURbbEaAMIRAQeLA79",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3cgNzvgdPEO9HJc2ltGzaC",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3LY5$E86TEt81US4rmLwsJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0NXLT2ZQzFmh3oTlUYqFt6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0hOjo7qEf0cepRPjjb8hVs",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3lK_GgTCTFOOPl93fCbd3C",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "29Q9SDlxP049vpn2Cd6m8Y",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1i9ugUsyzE$8q4CcHN7IbK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2BZl10LPnDQ81Uav9kgxMi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Mb13qWuHFtgDHPngaD5GX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3GoSPOqtX7dearkO$UUhI2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2_tSa8qHjEd8_D8S9VrgVw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1$$VEdvaPFK9l4cjl6rcr6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2Frydf73T9Eh0asd86kYWR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2oaOPabHPDAAtlWOutQE3o",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3tMNpQKx9Ex8dFE6F7sw2i",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2QVZ$CmZD9FBeBrq7xxpvz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1byMCRhqPBsxzAtzqXd140",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1Dc1pjSrzA6uYdZqgeJt0I",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1IGgGGQQH08gW5JZr4Sa8O",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "26gP3dO81DORvn704Zvisr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0LmiBTKsr00eS4sSDibJ7X",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1MHGA$XwT3wvOk2wZMbbk$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "15n7GZph91CPr2m$9M6otT",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "29Krvrevr9vOsc7BVnuZBz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1cPMk4xmr2x9xY4o1VRpig",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0WIxQs3fv0Hx0xXeiE0hJE",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1vKIEnBz17IPsy1ms1Vrja",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0$HdKKHivEm8IkFnXe50Zo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3m0WyUX2r0igOPiOoG1P$4",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2S6_a_4rH4nOgwMwN9PLBj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "19c$931gbCv8wZKVZc9tM0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2E6F6u1rT3cORfITr48LMP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0C7LVKp2j8oeAZwTboXvW3",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3lI7fabGTEwR2lsuNXri21",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3ZuKvvc65DleDlileCLghG",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3R_VFkZ8P2IBHDWOdWuGft",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0rXH6eYMP8fgO4uvBW5bHV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2r4p7_bkj3zvTn9jSEhnZa",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1$DRh9Nx15WRPl7Xh83o1F",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1eVZmTCMrDc8D0oKqPixQv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1gtxf5nt10WBKl$wMOw0vq",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0_xNC69uf2puMDIGU4mVcu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3kvLI_6wXCzBz8HTbZWP6y",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2FoR3$qsvAEuxSNzlOPGQ0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "093Y$gPP92thIGmW46bWyz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2yS8Y48mDArA5tn8rTLMnU",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1UutKFW6H6XeppGEvS4nTD",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3IVS7OyjHCcOCIfoYMWkvL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1jvRDIAl9DwfbUbLSnBNEe",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2LMB3nX7P4oRtbKISJTVG0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2ZMN5peVDEoQK4kmvy0Qk9",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2_DCWxC4H408Gmkfv5X6hj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "17ehD4lOD7fRTp2Re1Xe6l",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "10Z$AmLlLE1O8KU4RdMW78",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "24bhHRWsL3PRIpJSTbvZfZ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3vV$qwRybDIA$HwN8Cju7Q",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "14zGt39vz1cPcA_Ep90m62",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0xMO9ieCr1ehAQPrrfx3yJ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2eyqdfjmz5qevg66V0mPGo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0SLie3Ynv0tv7fDvAsoxD2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "01gHA1sOj4hB1$LjAResr$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2nzj5YDzb3lAY5pbzxE2M8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2sjoDfM719UwbXRxPM24Yr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2QTp6ak$X3Ufs4RyXnBTEh",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2qiSGyRrL1avWNQZh5_l5V",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "20$tClpIr10gKbPN_7$DZ8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0rwgm6SRjEwO_vQWrUqBvp",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3obgN19y58oPHUYRrOzlcW",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "17aALJKaXEY91p6G2i0dl6",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3qayQUegz9n9yFoO5scRZX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2zPbqPg1H2$9ufEVh0m2fj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0dWHHP7S148vDuCbFKUjb8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2goekdVk989xbZrsjXh0rR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0QjeFhQsv8JfH9n447TmgR",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3$cP_huRD9Y8xsuGKmYa$c",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3DOmO0jf52EOLUEqE4zj3e",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2nlyyr$arBPuRMaOJvRi7k",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Q6TC$Z5r8gv1p5c3vhSIQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0MGOQXgszDqRHyYYkm2u3n",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0flnxJvtv9C9a32xJCfyQI",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1IK$hfQTrAGv$ajCdfRJBh",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2mpsonaY5BdP3AOtYcZ3Yo",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1ZWfHBSxn6Buuo23JPWT4N",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1BVquso3rE0e8emY2PmT_P",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1OY7X6aWvFJP_GPzMLt3_Y",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3pMnfNivz6HPxtEkGDLQlP",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0YnC1dmGrAJQMa5g6a1NTr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0cplqOQPfDbheCTMOgGPPV",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "20L_r56jL5hvMeBN8hINX8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0$7DuJXhzAMPloYmfmpsUs",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "370XMt$K1FsPfEk24FQLck",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0KdLRxTO9AmhACV7nMAM97",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1$SWRuWgj3chJhdtEyK6h8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "29Mztrhfj0Q8z928IU4rDd",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0Hr_xq6H91vxwx6bFyr4Jt",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1jweeh4Ir9zRdE5wl6u_1f",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3We7Ay$B98GglW7fZ$3G5I",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3kqcZdTv18cPF1v9XXH5Qh",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1OF_mTXHn88By86PW3V_Sw",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2SlIve8gb1ihrJ$TM1sa7x",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "31ivMDd_L9auEAI2haYmsM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3PWHmWlDrAmuoOw6ZTNUub",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0FI3devYHEy8eDgoU6xVnW",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1_lbjQ1Tf9Zw2i8ZdN84pQ",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "13pUhopG18W9Jv3AlDJVZX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3a2U_aY1HABQETSYa2loKK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3l$UrpHQTANAL_2GljpkEK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3jkfnFpB14EuYOWSGVG5LL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3sgSFCcjn3GQBXD6n1oPUf",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0E_aVzQUPAP9PEBqEoHfcM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0SQvW3C_PFlOuSNk27BMtx",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "33B8xkf6f6NwPQQPjZj49Q",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3wxmRlX$f34Rd9cDWdV5I2",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3arkazMd94xP$zxwNCq1s_",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1rID1v7lbFO8ak5I8NNwnn",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0OwQAWMfH0ivoUrdzNLDkb",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "38m6eJKy9EMeKyZmrX4ECF",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0z61$bWXP4g9n8XurR1Nnj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0cw19bdvr8xgg1S_ngWlyL",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3iG69CFM93w8FTkNVVRd$B",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1LvajcECL2n8kzKoJO3QCD",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1mXBkTOi54xRnZvZoDd1mH",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3b0M$ENVrCGw7iMG_iPj3c",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0CLCQYwT9FF8_PBPmPRVIr",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "27WSHXRjP4sPr3U29xSOgj",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3tdQ6d0V1Ei95TQ0mWeBld",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1T4YDQcO91FRoKjlJtukjM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2pI6mNy9f1yQpSh$WfWG51",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1paxHrq_1B48V9o3AmmZd8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1yknueDkfE3BQRMcxuzoaa",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3JvH7o3gLFd8CdcdY4MFBg",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "234bMUwnH2mBLGuyMMHJ$c",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "29eo2MIM9AKuUqwdAPNEtz",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2haTjOf4f08voXWlSmn9xM",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0ETD_x7MvAge3aL8LzmTy8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3Dxxiv4rz7A8Z31WlNX6Rv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3S8LqSor91sPQ9mtg_7ZKK",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0PSXjKeHT8q9uGoQveNpw$",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0h2cN0XIzBCx2hBTf9akGv",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "177EFWTWnA4Qfif53Tdfej",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0GhLL5cs9AUB$mAz5TXsAi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3U3tRh60D0TQYqNB9aQhx8",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "3HxvPNVH53UxUzzKQ8fUOO",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1ZtfeH22bBsf7liU73RpPi",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2uoS5ch$jBcgFCavXixR7J",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0yQXdWNsX2sR2hpTr9XHz0",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "2HssC$qPvDKgVYVoKCASbu",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "1SxuctpVj7_fRylJ8Nr2Dc",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "0jqCire9jFHByQtvcchAyX",
+      "name": "<Unnamed Element>",
+      "type": "IfcBuildingElementProxy",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    },
+    {
+      "id": "31KcNE3rb4pe2NMse0K_wL",
+      "name": "Default Building Storey",
+      "type": "IfcBuildingStorey",
+      "parent": "2gtO$3Mlz5YvEwbKw6IbQm"
+    }
+  ]
+}

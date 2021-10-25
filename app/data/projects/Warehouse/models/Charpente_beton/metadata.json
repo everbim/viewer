@@ -1,0 +1,5662 @@
+{
+  "id": "0001",
+  "projectId": "0GlXGtDfr7wx3vKXJNOI90",
+  "author": "",
+  "createdAt": "2020-06-05T16:28:58",
+  "schema": "IFC2X3",
+  "creatingApplication": "20190731_1515(x64) - Exporter 20.1.0.1 - Alternate UI 20.1.0.1",
+  "metaObjects": [
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI90",
+      "name": "0001",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI92",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "0GlXGtDfr7wx3vKXJNOI90"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXJNOI91",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "0GlXGtDfr7wx3vKXJNOI92"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGedkw$",
+      "name": "0-Ground",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "2lhkm7sWDDAfI6UROIomzS",
+      "name": "Point zero:Point zero:360582",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgrh",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510571",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgrw",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510586",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgs9",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510601",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgsO",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510616",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgsd",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510631",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgsu",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510648",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgt7",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510663",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgtM",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:510678",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgmu",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510776",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgnk",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510830",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgnz",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510845",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgoE",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510862",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgoV",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510879",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgom",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510896",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgp1",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510913",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgpI",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510930",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3xcgVjy2DDPhaGYZSgUgpX",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:510945",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvRz",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515214",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUl",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515548",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUj",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515550",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUJ",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515552",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUH",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515554",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUN",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515556",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUL",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515558",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUR",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515560",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvUP",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515562",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvHE",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515645",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvHC",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515647",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGo",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515649",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515651",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGs",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515653",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGq",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515655",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGw",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515657",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvGu",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515659",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJv",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515722",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJ$",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515724",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJz",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515726",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJZ",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515728",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJX",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515730",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJd",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515732",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJb",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515734",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvJh",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Doublevoid:700x550 m:515736",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvIA",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515833",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvI8",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515835",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvIE",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515837",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvIC",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515839",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvLo",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515841",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvLm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515843",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvLs",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515845",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvLq",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515847",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvLw",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515849",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvKM",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515941",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvK5",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515958",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvNu",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515979",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvNj",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:515998",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBvMm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516035",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwe8",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516219",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwhQ",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516265",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwhB",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516280",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwgq",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516295",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwgb",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516310",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwgM",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516325",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwg7",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516340",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwjm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516355",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3H5OaNm8DBjPpmJt2RBwjX",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:516370",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3vSw_3YST9ketYl2GpSNd8",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:526016",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1SEp",
+      "name": "Basic Wall:Concrete wall 20 cm:548442",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2$ehppX0D82h2kzFsXLOe1",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:587718",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2$ehppX0D82h2kzFsXLONn",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:587830",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCLM",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:500 x 600 mm:592528",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gw_",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:604723",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gxI",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:604767",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gu6",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:604811",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$ezC",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:607189",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eYU",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:607239",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eZ_",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels_Singlevoid:700x550 m:607335",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "3UKax6pW9D6AbZq1wK0Yt1",
+      "name": "Structural Columns 1:Structural Columns 1:627622",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0C$thoC49AF9C25n2FrdwA",
+      "name": "Family1:Family1:652267",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsM7",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678159",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsL_",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678390",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsOw",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678578",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUR",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678675",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUl",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678695",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUp",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678715",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsV7",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678735",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsVm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678776",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsSX",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678825",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsTm",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678904",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWs23",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678923",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWs2I",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678938",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWs2Z",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678955",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWs2o",
+      "name": "M_Precast Column with Foundation - Rectangular - Multilayer Difform Corbels:450 x 450 mm:678970",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGedkw$"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGecrpe",
+      "name": "3-Office roof",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCh6",
+      "name": "Columns 1:Columns 1:591104",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCgF",
+      "name": "Columns 2:Columns 1:591177",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCgl",
+      "name": "Columns 3:Columns 1:591209",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCgw",
+      "name": "Columns 4:Columns 1:591228",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCf9",
+      "name": "Columns 5:Columns 1:591247",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCYy",
+      "name": "Corbel:Corbel:591738",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCV8",
+      "name": "Corbel1:Corbel:591886",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCSk",
+      "name": "Corbel2:Corbel:592104",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCSp",
+      "name": "Corbel3:Corbel:592117",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCRE",
+      "name": "Corbel4:Corbel:592136",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2Oehqjc8L6Vg6zCvVxNCRJ",
+      "name": "Corbel5:Corbel:592149",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3Z2OAZeyjDSxDDNsKbrDsR",
+      "name": "Corbel 1:Corbel 1:603863",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3Z2OAZeyjDSxDDNsKbrDC4",
+      "name": "Corbel 4:Corbel 4:604232",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gmp",
+      "name": "Corbel 2:Corbel 4:604350",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gx4",
+      "name": "Corbel 3:Corbel 1:604745",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gxu",
+      "name": "Corbel 5:Corbel 1:604789",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gui",
+      "name": "Corbel 6:Corbel 1:604833",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPa8",
+      "name": "Corbel 7:Corbel 4:604959",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPax",
+      "name": "Corbel 8:Corbel 4:604972",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPbM",
+      "name": "Corbel 9:Corbel 4:604993",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPbP",
+      "name": "Corbel 10:Corbel 4:605006",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPbs",
+      "name": "Corbel 11:Corbel 4:605025",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPbv",
+      "name": "Corbel 12:Corbel 4:605038",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPcM",
+      "name": "Corbel 13:Corbel 4:605057",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "2dAC0Erhj8U8a7Mv_tkPcP",
+      "name": "Corbel 14:Corbel 4:605070",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$l7V",
+      "name": "Corbel 100:Corbel 100:605510",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$e_o",
+      "name": "Corbel6:Corbel:607019",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$e_X",
+      "name": "Corbel7:Corbel:607032",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$edt",
+      "name": "Corbel 15:Corbel 100:607598",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eaO",
+      "name": "Corbel 16:Corbel 100:607617",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eaD",
+      "name": "Corbel 17:Corbel 100:607636",
+      "type": "IfcColumn",
+      "parent": "0GlXGtDfr7wx3vKXGecrpe"
+    },
+    {
+      "id": "0GlXGtDfr7wx3vKXGecr_q",
+      "name": "4-Warehouse roof",
+      "type": "IfcBuildingStorey",
+      "parent": "0GlXGtDfr7wx3vKXJNOI91"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1S2Q",
+      "name": "Basic Wall:Concrete wall 20 cm:548211",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1S1d",
+      "name": "Basic Wall:Concrete wall 20 cm:548238",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1SCq",
+      "name": "Basic Wall:Concrete wall 20 cm:548573",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1VR1",
+      "name": "Basic Wall:Concrete wall 20 cm:551720",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1VOz",
+      "name": "Basic Wall:Concrete wall 20 cm:551892",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V7i",
+      "name": "Basic Wall:Concrete wall 20 cm:551941",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V7J",
+      "name": "Basic Wall:Concrete wall 20 cm:551994",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V62",
+      "name": "Basic Wall:Concrete wall 20 cm:552043",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V5i",
+      "name": "Basic Wall:Concrete wall 20 cm:552069",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V03",
+      "name": "Basic Wall:Concrete wall 20 cm:552426",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1VDF",
+      "name": "Basic Wall:Concrete wall 20 cm:552614",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1VBE",
+      "name": "Basic Wall:Concrete wall 20 cm:552743",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1VAU",
+      "name": "Basic Wall:Concrete wall 20 cm:552823",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V9X",
+      "name": "Basic Wall:Concrete wall 20 cm:552840",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V9m",
+      "name": "Basic Wall:Concrete wall 20 cm:552857",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V93",
+      "name": "Basic Wall:Concrete wall 20 cm:552874",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V9I",
+      "name": "Basic Wall:Concrete wall 20 cm:552891",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V8d",
+      "name": "Basic Wall:Concrete wall 20 cm:552910",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1V8s",
+      "name": "Basic Wall:Concrete wall 20 cm:552927",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UrH",
+      "name": "Basic Wall:Concrete wall 20 cm:553144",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Upk",
+      "name": "Basic Wall:Concrete wall 20 cm:553223",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Um3",
+      "name": "Basic Wall:Concrete wall 20 cm:553450",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UmK",
+      "name": "Basic Wall:Concrete wall 20 cm:553469",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1U$s",
+      "name": "Basic Wall:Concrete wall 20 cm:553503",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1U$R",
+      "name": "Basic Wall:Concrete wall 20 cm:553522",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1U_z",
+      "name": "Basic Wall:Concrete wall 20 cm:553556",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1U_E",
+      "name": "Basic Wall:Concrete wall 20 cm:553575",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1U_J",
+      "name": "Basic Wall:Concrete wall 20 cm:553594",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Uza",
+      "name": "Basic Wall:Concrete wall 20 cm:553613",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Uz9",
+      "name": "Basic Wall:Concrete wall 20 cm:553632",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UwF",
+      "name": "Basic Wall:Concrete wall 20 cm:553830",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UvG",
+      "name": "Basic Wall:Concrete wall 20 cm:553913",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UuZ",
+      "name": "Basic Wall:Concrete wall 20 cm:553930",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Uuo",
+      "name": "Basic Wall:Concrete wall 20 cm:553947",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UuM",
+      "name": "Basic Wall:Concrete wall 20 cm:553983",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Udv",
+      "name": "Basic Wall:Concrete wall 20 cm:554000",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Ud8",
+      "name": "Basic Wall:Concrete wall 20 cm:554017",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1UdT",
+      "name": "Basic Wall:Concrete wall 20 cm:554036",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0gYDN5ztb6MhAV_NJp1Uck",
+      "name": "Basic Wall:Concrete wall 20 cm:554055",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjr",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:589893",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjt",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589895",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjv",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589897",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjx",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589899",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjz",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589901",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj$",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589903",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjX",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589905",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjZ",
+      "name": "Roof beam_Section2:Tipo I 400 x 1350 mm:589907",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjb",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589909",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjd",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589911",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjf",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589913",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjh",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589915",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjj",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589917",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjl",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589919",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjH",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589921",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjJ",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589923",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjL",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589925",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjN",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589927",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjP",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589929",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjR",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589931",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjT",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589933",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjV",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589935",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj1",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589937",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj3",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589939",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj5",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589941",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj7",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589943",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgj9",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589945",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjB",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589947",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjD",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589949",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgjF",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589951",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkn",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589953",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkp",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589955",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkr",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589957",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkt",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589959",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkv",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589961",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkx",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589963",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkz",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589965",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgk$",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589967",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkX",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589969",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkZ",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589971",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkb",
+      "name": "Roof beam_Section2:Tipo II 400 x 1350 mm:589973",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgkd",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:589975",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEgln",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:590017",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEglp",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:590019",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0KGgTJMxD4O9MQlbbVEglr",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:590021",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gwu",
+      "name": "Basic Wall:Concrete wall 20 cm:604725",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gxi",
+      "name": "Basic Wall:Concrete wall 20 cm:604769",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3AoB3DX_v2qOR00pIt3gu0",
+      "name": "Basic Wall:Concrete wall 20 cm:604813",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLoW",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605105",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLoY",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605107",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLoa",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605109",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLpE",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605151",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLpm",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605153",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLpo",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605155",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLiN",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605190",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLiP",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605192",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLiR",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605194",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLi_",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605231",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLiW",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605233",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3q5u6XAJL20eFytsWuCLiY",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:300 x 400 mm:605235",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$ezA",
+      "name": "Basic Wall:Concrete wall 20 cm:607187",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$ez2",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607195",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$ez4",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607197",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eYS",
+      "name": "Basic Wall:Concrete wall 20 cm:607237",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eYK",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607245",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eYM",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607247",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eZy",
+      "name": "Basic Wall:Concrete wall 20 cm:607333",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eZq",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607341",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eZs",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607343",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eWC",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607381",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0VCTXLvqH1efTtleuB$eWE",
+      "name": "M_Precast Beam - Rectangular - Straight Ends:450 x 850 mm:607383",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLaJ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609709",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLaH",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609711",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLaD",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609715",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLaB",
+      "name": "Basic Wall:Concrete roof support:609717",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLa9",
+      "name": "Basic Wall:Concrete roof support:609719",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLa7",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609721",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLa5",
+      "name": "Basic Wall:Concrete roof support:609723",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLa3",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609725",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLa1",
+      "name": "Basic Wall:Concrete roof support:609727",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb$",
+      "name": "Basic Wall:Concrete roof support:609729",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbz",
+      "name": "Basic Wall:Concrete roof support:609731",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbx",
+      "name": "Basic Wall:Concrete roof support:609733",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbv",
+      "name": "Basic Wall:Concrete roof support:609735",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbt",
+      "name": "Basic Wall:Concrete roof support:609737",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbr",
+      "name": "Basic Wall:Concrete roof support:609739",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbp",
+      "name": "Basic Wall:Concrete roof support:609741",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbn",
+      "name": "Basic Wall:Concrete roof support:609743",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbl",
+      "name": "Basic Wall:Concrete roof support:609745",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbj",
+      "name": "Basic Wall:Concrete roof support:609747",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbh",
+      "name": "Basic Wall:Concrete roof support:609749",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbf",
+      "name": "Basic Wall:Concrete roof support:609751",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbd",
+      "name": "Basic Wall:Concrete roof support:609753",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbb",
+      "name": "Basic Wall:Concrete roof support:609755",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbZ",
+      "name": "Basic Wall:Concrete roof support:609757",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbX",
+      "name": "Basic Wall:Concrete roof support:609759",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbV",
+      "name": "Basic Wall:Concrete roof support:609761",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbT",
+      "name": "Basic Wall:Concrete roof support:609763",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbR",
+      "name": "Basic Wall:Concrete roof support:609765",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbP",
+      "name": "Basic Wall:Concrete roof support:609767",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbN",
+      "name": "Basic Wall:Concrete roof support:609769",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbL",
+      "name": "Basic Wall:Concrete roof support:609771",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbJ",
+      "name": "Basic Wall:Concrete roof support:609773",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbH",
+      "name": "Basic Wall:Concrete roof support:609775",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbF",
+      "name": "Basic Wall:Concrete roof support:609777",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbD",
+      "name": "Basic Wall:Concrete roof support:609779",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLbB",
+      "name": "Basic Wall:Concrete roof support:609781",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb9",
+      "name": "Basic Wall:Concrete roof support:609783",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb7",
+      "name": "Basic Wall:Concrete roof support:609785",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb5",
+      "name": "Basic Wall:Concrete roof support:609787",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb3",
+      "name": "Basic Wall:Concrete roof support:609789",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLb1",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609791",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLg$",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609793",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgx",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609797",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgv",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609799",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgt",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609801",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgr",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609803",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgp",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609805",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgl",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609809",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgj",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609811",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgh",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609813",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgf",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609815",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgd",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609817",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgZ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609821",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgX",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609823",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgV",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609825",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgT",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609827",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgR",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609829",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgN",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609833",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgL",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609835",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgJ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609837",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgH",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609839",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgF",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609841",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLgB",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609845",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLg9",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609847",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLg7",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609849",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLg5",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609851",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLg3",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609853",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLh$",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609857",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhz",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609859",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhx",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609861",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhv",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609863",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLht",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609865",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhp",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609869",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhn",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609871",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhl",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609873",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhj",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609875",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhh",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609877",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhd",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609881",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhb",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609883",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhZ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:609885",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0Oc3szXg19OAyDPzwEPLhX",
+      "name": "Basic Wall:Concrete roof support 2:609887",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edLBR9",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:614075",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8e9",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615035",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8eF",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615037",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8eD",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615039",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8hp",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615041",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8hn",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615043",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8ht",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615045",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8hr",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615047",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL8hx",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:615049",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91K",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620582",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91Q",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620584",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91O",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620586",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91U",
+      "name": "Basic Wall:Concrete roof support:620588",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91S",
+      "name": "Basic Wall:Concrete roof support:620590",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL912",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620592",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL910",
+      "name": "Basic Wall:Concrete roof support:620594",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL916",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620596",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL914",
+      "name": "Basic Wall:Concrete roof support:620598",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91A",
+      "name": "Basic Wall:Concrete roof support:620600",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL918",
+      "name": "Basic Wall:Concrete roof support:620602",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91E",
+      "name": "Basic Wall:Concrete roof support:620604",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL91C",
+      "name": "Basic Wall:Concrete roof support:620606",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90o",
+      "name": "Basic Wall:Concrete roof support:620608",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90m",
+      "name": "Basic Wall:Concrete roof support:620610",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90s",
+      "name": "Basic Wall:Concrete roof support:620612",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90q",
+      "name": "Basic Wall:Concrete roof support:620614",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90w",
+      "name": "Basic Wall:Concrete roof support:620616",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90u",
+      "name": "Basic Wall:Concrete roof support:620618",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90_",
+      "name": "Basic Wall:Concrete roof support:620620",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90y",
+      "name": "Basic Wall:Concrete roof support:620622",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90Y",
+      "name": "Basic Wall:Concrete roof support:620624",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90W",
+      "name": "Basic Wall:Concrete roof support:620626",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90c",
+      "name": "Basic Wall:Concrete roof support:620628",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90a",
+      "name": "Basic Wall:Concrete roof support:620630",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90g",
+      "name": "Basic Wall:Concrete roof support:620632",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90e",
+      "name": "Basic Wall:Concrete roof support:620634",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90k",
+      "name": "Basic Wall:Concrete roof support:620636",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90i",
+      "name": "Basic Wall:Concrete roof support:620638",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90I",
+      "name": "Basic Wall:Concrete roof support:620640",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90G",
+      "name": "Basic Wall:Concrete roof support:620642",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90M",
+      "name": "Basic Wall:Concrete roof support:620644",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90K",
+      "name": "Basic Wall:Concrete roof support:620646",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90Q",
+      "name": "Basic Wall:Concrete roof support:620648",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90O",
+      "name": "Basic Wall:Concrete roof support:620650",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90U",
+      "name": "Basic Wall:Concrete roof support:620652",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90S",
+      "name": "Basic Wall:Concrete roof support:620654",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL902",
+      "name": "Basic Wall:Concrete roof support:620656",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL900",
+      "name": "Basic Wall:Concrete roof support:620658",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL906",
+      "name": "Basic Wall:Concrete roof support:620660",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL904",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620662",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90A",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620664",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL908",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620666",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90E",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620668",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL90C",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620670",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93o",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620672",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93m",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620674",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93s",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620676",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93q",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620678",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93w",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620680",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93u",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620682",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620684",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93y",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620686",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93Y",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620688",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93W",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620690",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93c",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620692",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93a",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620694",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93g",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620696",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93e",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620698",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93k",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620700",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93i",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620702",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93I",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620704",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93G",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620706",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93M",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620708",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93K",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620710",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93Q",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620712",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93O",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620714",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93U",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620716",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93S",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620718",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL932",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620720",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL930",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620722",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL936",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620724",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL934",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620726",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93A",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620728",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL938",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620730",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93E",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620732",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL93C",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620734",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92o",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620736",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92m",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620738",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92s",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620740",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92q",
+      "name": "Basic Wall:Concrete roof support 2:620742",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92w",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620744",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92u",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620746",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620748",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92y",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620750",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92Y",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620752",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92W",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620754",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92c",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620756",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92a",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620758",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0X0utchQb00xm$H9edL92g",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:620760",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NuY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623478",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nui",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623480",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nuk",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623482",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nue",
+      "name": "Basic Wall:Concrete roof support:623484",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nug",
+      "name": "Basic Wall:Concrete roof support:623486",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623488",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxM",
+      "name": "Basic Wall:Concrete roof support:623490",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623492",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxI",
+      "name": "Basic Wall:Concrete roof support:623494",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxS",
+      "name": "Basic Wall:Concrete roof support:623496",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxU",
+      "name": "Basic Wall:Concrete roof support:623498",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxO",
+      "name": "Basic Wall:Concrete roof support:623500",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxQ",
+      "name": "Basic Wall:Concrete roof support:623502",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx4",
+      "name": "Basic Wall:Concrete roof support:623504",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx6",
+      "name": "Basic Wall:Concrete roof support:623506",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx0",
+      "name": "Basic Wall:Concrete roof support:623508",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx2",
+      "name": "Basic Wall:Concrete roof support:623510",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxC",
+      "name": "Basic Wall:Concrete roof support:623512",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxE",
+      "name": "Basic Wall:Concrete roof support:623514",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx8",
+      "name": "Basic Wall:Concrete roof support:623516",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxA",
+      "name": "Basic Wall:Concrete roof support:623518",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxq",
+      "name": "Basic Wall:Concrete roof support:623520",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxs",
+      "name": "Basic Wall:Concrete roof support:623522",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxm",
+      "name": "Basic Wall:Concrete roof support:623524",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxo",
+      "name": "Basic Wall:Concrete roof support:623526",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxy",
+      "name": "Basic Wall:Concrete roof support:623528",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nx_",
+      "name": "Basic Wall:Concrete roof support:623530",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxu",
+      "name": "Basic Wall:Concrete roof support:623532",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxw",
+      "name": "Basic Wall:Concrete roof support:623534",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxa",
+      "name": "Basic Wall:Concrete roof support:623536",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxc",
+      "name": "Basic Wall:Concrete roof support:623538",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxW",
+      "name": "Basic Wall:Concrete roof support:623540",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NxY",
+      "name": "Basic Wall:Concrete roof support:623542",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxi",
+      "name": "Basic Wall:Concrete roof support:623544",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxk",
+      "name": "Basic Wall:Concrete roof support:623546",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxe",
+      "name": "Basic Wall:Concrete roof support:623548",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nxg",
+      "name": "Basic Wall:Concrete roof support:623550",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwK",
+      "name": "Basic Wall:Concrete roof support:623552",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwM",
+      "name": "Basic Wall:Concrete roof support:623554",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwG",
+      "name": "Basic Wall:Concrete roof support:623556",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623558",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623560",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623562",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623564",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623566",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw4",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623568",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw6",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623570",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw0",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623572",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw2",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623574",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwC",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623576",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwE",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623578",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623580",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623582",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623584",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nws",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623586",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwm",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623588",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwo",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623590",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwy",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623592",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nw_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623594",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwu",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623596",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nww",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623598",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwa",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623600",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwc",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623602",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwW",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623604",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NwY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623606",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwi",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623608",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwk",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623610",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwe",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623612",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nwg",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623614",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623616",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbM",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623618",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623620",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623622",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623624",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623626",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623628",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623630",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nb4",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623632",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nb6",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623634",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nb0",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623636",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nb2",
+      "name": "Basic Wall:Concrete roof support 2:623638",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbC",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623640",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbE",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623642",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nb8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623644",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NbA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623646",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nbq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623648",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nbs",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623650",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nbm",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623652",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nbo",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623654",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nby",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:623656",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NY8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624092",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624094",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624096",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYs",
+      "name": "Basic Wall:Concrete roof support:624098",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYm",
+      "name": "Basic Wall:Concrete roof support:624100",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYo",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624102",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYy",
+      "name": "Basic Wall:Concrete roof support:624104",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NY_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624106",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYu",
+      "name": "Basic Wall:Concrete roof support:624108",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYw",
+      "name": "Basic Wall:Concrete roof support:624110",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYa",
+      "name": "Basic Wall:Concrete roof support:624112",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYc",
+      "name": "Basic Wall:Concrete roof support:624114",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYW",
+      "name": "Basic Wall:Concrete roof support:624116",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYY",
+      "name": "Basic Wall:Concrete roof support:624118",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYi",
+      "name": "Basic Wall:Concrete roof support:624120",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYk",
+      "name": "Basic Wall:Concrete roof support:624122",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYe",
+      "name": "Basic Wall:Concrete roof support:624124",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NYg",
+      "name": "Basic Wall:Concrete roof support:624126",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjK",
+      "name": "Basic Wall:Concrete roof support:624128",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjM",
+      "name": "Basic Wall:Concrete roof support:624130",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjG",
+      "name": "Basic Wall:Concrete roof support:624132",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjI",
+      "name": "Basic Wall:Concrete roof support:624134",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjS",
+      "name": "Basic Wall:Concrete roof support:624136",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjU",
+      "name": "Basic Wall:Concrete roof support:624138",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjO",
+      "name": "Basic Wall:Concrete roof support:624140",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjQ",
+      "name": "Basic Wall:Concrete roof support:624142",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj4",
+      "name": "Basic Wall:Concrete roof support:624144",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj6",
+      "name": "Basic Wall:Concrete roof support:624146",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj0",
+      "name": "Basic Wall:Concrete roof support:624148",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj2",
+      "name": "Basic Wall:Concrete roof support:624150",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjC",
+      "name": "Basic Wall:Concrete roof support:624152",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjE",
+      "name": "Basic Wall:Concrete roof support:624154",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj8",
+      "name": "Basic Wall:Concrete roof support:624156",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjA",
+      "name": "Basic Wall:Concrete roof support:624158",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njq",
+      "name": "Basic Wall:Concrete roof support:624160",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njs",
+      "name": "Basic Wall:Concrete roof support:624162",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njm",
+      "name": "Basic Wall:Concrete roof support:624164",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njo",
+      "name": "Basic Wall:Concrete roof support:624166",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njy",
+      "name": "Basic Wall:Concrete roof support:624168",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nj_",
+      "name": "Basic Wall:Concrete roof support:624170",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nju",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624172",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njw",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624174",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nja",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624176",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njc",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624178",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjW",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624180",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NjY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624182",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nji",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624184",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njk",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624186",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nje",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624188",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Njg",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624190",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624192",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiM",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624194",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624196",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624198",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624200",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624202",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624204",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624206",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni4",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624208",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni6",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624210",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni0",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624212",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni2",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624214",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiC",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624216",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiE",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624218",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624220",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624222",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Niq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624224",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nis",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624226",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nim",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624228",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nio",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624230",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Niy",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624232",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Ni_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624234",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Niu",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624236",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Niw",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624238",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nia",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624240",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nic",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624242",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiW",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624244",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NiY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624246",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nii",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624248",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nik",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624250",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nie",
+      "name": "Basic Wall:Concrete roof support 2:624252",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0Nig",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624254",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624256",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlM",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624258",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624260",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624262",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624264",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624266",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624268",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NlQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624270",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NLY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624694",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NLi",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624696",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NLk",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624698",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NLe",
+      "name": "Basic Wall:Concrete roof support:624700",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NLg",
+      "name": "Basic Wall:Concrete roof support:624702",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624704",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKM",
+      "name": "Basic Wall:Concrete roof support:624706",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624708",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKI",
+      "name": "Basic Wall:Concrete roof support:624710",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKS",
+      "name": "Basic Wall:Concrete roof support:624712",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKU",
+      "name": "Basic Wall:Concrete roof support:624714",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKO",
+      "name": "Basic Wall:Concrete roof support:624716",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKQ",
+      "name": "Basic Wall:Concrete roof support:624718",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK4",
+      "name": "Basic Wall:Concrete roof support:624720",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK6",
+      "name": "Basic Wall:Concrete roof support:624722",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK0",
+      "name": "Basic Wall:Concrete roof support:624724",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK2",
+      "name": "Basic Wall:Concrete roof support:624726",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKC",
+      "name": "Basic Wall:Concrete roof support:624728",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKE",
+      "name": "Basic Wall:Concrete roof support:624730",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK8",
+      "name": "Basic Wall:Concrete roof support:624732",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKA",
+      "name": "Basic Wall:Concrete roof support:624734",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKq",
+      "name": "Basic Wall:Concrete roof support:624736",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKs",
+      "name": "Basic Wall:Concrete roof support:624738",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKm",
+      "name": "Basic Wall:Concrete roof support:624740",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKo",
+      "name": "Basic Wall:Concrete roof support:624742",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKy",
+      "name": "Basic Wall:Concrete roof support:624744",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NK_",
+      "name": "Basic Wall:Concrete roof support:624746",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKu",
+      "name": "Basic Wall:Concrete roof support:624748",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKw",
+      "name": "Basic Wall:Concrete roof support:624750",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKa",
+      "name": "Basic Wall:Concrete roof support:624752",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKc",
+      "name": "Basic Wall:Concrete roof support:624754",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKW",
+      "name": "Basic Wall:Concrete roof support:624756",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKY",
+      "name": "Basic Wall:Concrete roof support:624758",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKi",
+      "name": "Basic Wall:Concrete roof support:624760",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKk",
+      "name": "Basic Wall:Concrete roof support:624762",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKe",
+      "name": "Basic Wall:Concrete roof support:624764",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NKg",
+      "name": "Basic Wall:Concrete roof support:624766",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNK",
+      "name": "Basic Wall:Concrete roof support:624768",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNM",
+      "name": "Basic Wall:Concrete roof support:624770",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNG",
+      "name": "Basic Wall:Concrete roof support:624772",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624774",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624776",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624778",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624780",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624782",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN4",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624784",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN6",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624786",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN0",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624788",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN2",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624790",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNC",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624792",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNE",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624794",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624796",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624798",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624800",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNs",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624802",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNm",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624804",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNo",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624806",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNy",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624808",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NN_",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624810",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNu",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624812",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNw",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624814",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNa",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624816",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNc",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624818",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNW",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624820",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNY",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624822",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNi",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624824",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNk",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624826",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNe",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624828",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NNg",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624830",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMK",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624832",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMM",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624834",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMG",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624836",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMI",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624838",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMS",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624840",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMU",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624842",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMO",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624844",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMQ",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624846",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NM4",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624848",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NM6",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624850",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NM0",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624852",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NM2",
+      "name": "Basic Wall:Concrete roof support 2:624854",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMC",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624856",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NME",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624858",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NM8",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624860",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMA",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624862",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMq",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624864",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMs",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624866",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMm",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624868",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMo",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624870",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1qXTB3Kl54H9drHRrR0NMy",
+      "name": "Roof beam_Section1:Tipo I 400 x 250:624872",
+      "type": "IfcBeam",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0nDk6tuQb0x8q_kEKMfevT",
+      "name": "Basic Wall:Concrete wall 15 cm:628112",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsM6",
+      "name": "Basic Wall:Concrete wall 20 cm:678158",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsLz",
+      "name": "Basic Wall:Concrete wall 20 cm:678389",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsRJ",
+      "name": "Basic Wall:Concrete wall 20 cm:678491",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsOy",
+      "name": "Basic Wall:Concrete wall 20 cm:678580",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUT",
+      "name": "Basic Wall:Concrete wall 20 cm:678677",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUX",
+      "name": "Basic Wall:Concrete wall 20 cm:678697",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsUr",
+      "name": "Basic Wall:Concrete wall 20 cm:678717",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsVP",
+      "name": "Basic Wall:Concrete wall 20 cm:678737",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsV$",
+      "name": "Basic Wall:Concrete wall 20 cm:678775",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsVt",
+      "name": "Basic Wall:Concrete wall 20 cm:678783",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1hLDPTkLj8XQpNz6wCWsSW",
+      "name": "Basic Wall:Concrete wall 20 cm:678824",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0gSV",
+      "name": "Basic Wall:Concrete roof support 3:693703",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0gLJ",
+      "name": "Basic Wall:Concrete roof support 3:694155",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0gaS",
+      "name": "Basic Wall:Concrete roof support 3:695236",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0g$4",
+      "name": "Basic Wall:Concrete roof support 3:695580",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0gpC",
+      "name": "Basic Wall:Concrete roof support 3:695828",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0gtC",
+      "name": "Basic Wall:Concrete roof support 3:696084",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fBu",
+      "name": "Basic Wall:Concrete roof support 3:696352",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fBw",
+      "name": "Basic Wall:Concrete roof support 3:696354",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fBy",
+      "name": "Basic Wall:Concrete roof support 3:696356",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fB_",
+      "name": "Basic Wall:Concrete roof support 3:696358",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fBm",
+      "name": "Basic Wall:Concrete roof support 3:696360",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fBo",
+      "name": "Basic Wall:Concrete roof support 3:696362",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fA$",
+      "name": "Basic Wall:Concrete roof support 3:696423",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fAn",
+      "name": "Basic Wall:Concrete roof support 3:696425",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fAp",
+      "name": "Basic Wall:Concrete roof support 3:696427",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fAr",
+      "name": "Basic Wall:Concrete roof support 3:696429",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fAt",
+      "name": "Basic Wall:Concrete roof support 3:696431",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fAf",
+      "name": "Basic Wall:Concrete roof support 3:696433",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9s",
+      "name": "Basic Wall:Concrete roof support 3:696494",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9e",
+      "name": "Basic Wall:Concrete roof support 3:696496",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9g",
+      "name": "Basic Wall:Concrete roof support 3:696498",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9i",
+      "name": "Basic Wall:Concrete roof support 3:696500",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9k",
+      "name": "Basic Wall:Concrete roof support 3:696502",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f9W",
+      "name": "Basic Wall:Concrete roof support 3:696504",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8j",
+      "name": "Basic Wall:Concrete roof support 3:696565",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8l",
+      "name": "Basic Wall:Concrete roof support 3:696567",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8X",
+      "name": "Basic Wall:Concrete roof support 3:696569",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8Z",
+      "name": "Basic Wall:Concrete roof support 3:696571",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8b",
+      "name": "Basic Wall:Concrete roof support 3:696573",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f8d",
+      "name": "Basic Wall:Concrete roof support 3:696575",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fE4",
+      "name": "Basic Wall:Concrete roof support 3:696668",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fE6",
+      "name": "Basic Wall:Concrete roof support 3:696670",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fEu",
+      "name": "Basic Wall:Concrete roof support 3:696672",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fEw",
+      "name": "Basic Wall:Concrete roof support 3:696674",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fEy",
+      "name": "Basic Wall:Concrete roof support 3:696676",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fE_",
+      "name": "Basic Wall:Concrete roof support 3:696678",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCQ",
+      "name": "Basic Wall:Concrete roof support 3:696770",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCS",
+      "name": "Basic Wall:Concrete roof support 3:696772",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCU",
+      "name": "Basic Wall:Concrete roof support 3:696774",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCG",
+      "name": "Basic Wall:Concrete roof support 3:696776",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCI",
+      "name": "Basic Wall:Concrete roof support 3:696778",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0fCK",
+      "name": "Basic Wall:Concrete roof support 3:696780",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3r",
+      "name": "Basic Wall:Concrete roof support 3:696877",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3t",
+      "name": "Basic Wall:Concrete roof support 3:696879",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3f",
+      "name": "Basic Wall:Concrete roof support 3:696881",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3h",
+      "name": "Basic Wall:Concrete roof support 3:696883",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3j",
+      "name": "Basic Wall:Concrete roof support 3:696885",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "0P6SlQMkr92P2BwcDF0f3l",
+      "name": "Basic Wall:Concrete roof support 3:696887",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dILM",
+      "name": "Basic Wall:Concrete roof support 3:702795",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIMn",
+      "name": "Basic Wall:Concrete roof support 3:702892",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIMY",
+      "name": "Basic Wall:Concrete roof support 3:702911",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIND",
+      "name": "Basic Wall:Concrete roof support 3:702928",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dINv",
+      "name": "Basic Wall:Concrete roof support 3:702948",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dINg",
+      "name": "Basic Wall:Concrete roof support 3:702967",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISu",
+      "name": "Basic Wall:Concrete roof support 3:703269",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISw",
+      "name": "Basic Wall:Concrete roof support 3:703271",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISq",
+      "name": "Basic Wall:Concrete roof support 3:703273",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISs",
+      "name": "Basic Wall:Concrete roof support 3:703275",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISm",
+      "name": "Basic Wall:Concrete roof support 3:703277",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dISo",
+      "name": "Basic Wall:Concrete roof support 3:703279",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITr",
+      "name": "Basic Wall:Concrete roof support 3:703336",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITt",
+      "name": "Basic Wall:Concrete roof support 3:703338",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITn",
+      "name": "Basic Wall:Concrete roof support 3:703340",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITp",
+      "name": "Basic Wall:Concrete roof support 3:703342",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITj",
+      "name": "Basic Wall:Concrete roof support 3:703344",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dITl",
+      "name": "Basic Wall:Concrete roof support 3:703346",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUt",
+      "name": "Basic Wall:Concrete roof support 3:703402",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUn",
+      "name": "Basic Wall:Concrete roof support 3:703404",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUp",
+      "name": "Basic Wall:Concrete roof support 3:703406",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUj",
+      "name": "Basic Wall:Concrete roof support 3:703408",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUl",
+      "name": "Basic Wall:Concrete roof support 3:703410",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIUf",
+      "name": "Basic Wall:Concrete roof support 3:703412",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVn",
+      "name": "Basic Wall:Concrete roof support 3:703468",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVp",
+      "name": "Basic Wall:Concrete roof support 3:703470",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVj",
+      "name": "Basic Wall:Concrete roof support 3:703472",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVl",
+      "name": "Basic Wall:Concrete roof support 3:703474",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVf",
+      "name": "Basic Wall:Concrete roof support 3:703476",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dIVh",
+      "name": "Basic Wall:Concrete roof support 3:703478",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI1J",
+      "name": "Basic Wall:Concrete roof support 3:703566",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI1D",
+      "name": "Basic Wall:Concrete roof support 3:703568",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI1F",
+      "name": "Basic Wall:Concrete roof support 3:703570",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI19",
+      "name": "Basic Wall:Concrete roof support 3:703572",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI1B",
+      "name": "Basic Wall:Concrete roof support 3:703574",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI15",
+      "name": "Basic Wall:Concrete roof support 3:703576",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2o",
+      "name": "Basic Wall:Concrete roof support 3:703663",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2i",
+      "name": "Basic Wall:Concrete roof support 3:703665",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2k",
+      "name": "Basic Wall:Concrete roof support 3:703667",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2e",
+      "name": "Basic Wall:Concrete roof support 3:703669",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2g",
+      "name": "Basic Wall:Concrete roof support 3:703671",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI2a",
+      "name": "Basic Wall:Concrete roof support 3:703673",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI4J",
+      "name": "Basic Wall:Concrete roof support 3:703758",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI4D",
+      "name": "Basic Wall:Concrete roof support 3:703760",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI4F",
+      "name": "Basic Wall:Concrete roof support 3:703762",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI49",
+      "name": "Basic Wall:Concrete roof support 3:703764",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI4B",
+      "name": "Basic Wall:Concrete roof support 3:703766",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dI45",
+      "name": "Basic Wall:Concrete roof support 3:703768",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpz",
+      "name": "Basic Wall:Concrete roof support 3:708832",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKp$",
+      "name": "Basic Wall:Concrete roof support 3:708834",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpv",
+      "name": "Basic Wall:Concrete roof support 3:708836",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpx",
+      "name": "Basic Wall:Concrete roof support 3:708838",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpr",
+      "name": "Basic Wall:Concrete roof support 3:708840",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpt",
+      "name": "Basic Wall:Concrete roof support 3:708842",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpn",
+      "name": "Basic Wall:Concrete roof support 3:708844",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpp",
+      "name": "Basic Wall:Concrete roof support 3:708846",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpj",
+      "name": "Basic Wall:Concrete roof support 3:708848",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpl",
+      "name": "Basic Wall:Concrete roof support 3:708850",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpf",
+      "name": "Basic Wall:Concrete roof support 3:708852",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKph",
+      "name": "Basic Wall:Concrete roof support 3:708854",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpb",
+      "name": "Basic Wall:Concrete roof support 3:708856",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpd",
+      "name": "Basic Wall:Concrete roof support 3:708858",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpX",
+      "name": "Basic Wall:Concrete roof support 3:708860",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKpZ",
+      "name": "Basic Wall:Concrete roof support 3:708862",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqT",
+      "name": "Basic Wall:Concrete roof support 3:708864",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqV",
+      "name": "Basic Wall:Concrete roof support 3:708866",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqP",
+      "name": "Basic Wall:Concrete roof support 3:708868",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqR",
+      "name": "Basic Wall:Concrete roof support 3:708870",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqL",
+      "name": "Basic Wall:Concrete roof support 3:708872",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqN",
+      "name": "Basic Wall:Concrete roof support 3:708874",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqH",
+      "name": "Basic Wall:Concrete roof support 3:708876",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqJ",
+      "name": "Basic Wall:Concrete roof support 3:708878",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqD",
+      "name": "Basic Wall:Concrete roof support 3:708880",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqF",
+      "name": "Basic Wall:Concrete roof support 3:708882",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq9",
+      "name": "Basic Wall:Concrete roof support 3:708884",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqB",
+      "name": "Basic Wall:Concrete roof support 3:708886",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq5",
+      "name": "Basic Wall:Concrete roof support 3:708888",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq7",
+      "name": "Basic Wall:Concrete roof support 3:708890",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq1",
+      "name": "Basic Wall:Concrete roof support 3:708892",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq3",
+      "name": "Basic Wall:Concrete roof support 3:708894",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqz",
+      "name": "Basic Wall:Concrete roof support 3:708896",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKq$",
+      "name": "Basic Wall:Concrete roof support 3:708898",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqv",
+      "name": "Basic Wall:Concrete roof support 3:708900",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqx",
+      "name": "Basic Wall:Concrete roof support 3:708902",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqr",
+      "name": "Basic Wall:Concrete roof support 3:708904",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqt",
+      "name": "Basic Wall:Concrete roof support 3:708906",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqn",
+      "name": "Basic Wall:Concrete roof support 3:708908",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqp",
+      "name": "Basic Wall:Concrete roof support 3:708910",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqj",
+      "name": "Basic Wall:Concrete roof support 3:708912",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKql",
+      "name": "Basic Wall:Concrete roof support 3:708914",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqf",
+      "name": "Basic Wall:Concrete roof support 3:708916",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqh",
+      "name": "Basic Wall:Concrete roof support 3:708918",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqb",
+      "name": "Basic Wall:Concrete roof support 3:708920",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqd",
+      "name": "Basic Wall:Concrete roof support 3:708922",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqX",
+      "name": "Basic Wall:Concrete roof support 3:708924",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKqZ",
+      "name": "Basic Wall:Concrete roof support 3:708926",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrO",
+      "name": "Basic Wall:Concrete roof support 3:708933",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrQ",
+      "name": "Basic Wall:Concrete roof support 3:708935",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrK",
+      "name": "Basic Wall:Concrete roof support 3:708937",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrM",
+      "name": "Basic Wall:Concrete roof support 3:708939",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrG",
+      "name": "Basic Wall:Concrete roof support 3:708941",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrI",
+      "name": "Basic Wall:Concrete roof support 3:708943",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrC",
+      "name": "Basic Wall:Concrete roof support 3:708945",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrE",
+      "name": "Basic Wall:Concrete roof support 3:708947",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr8",
+      "name": "Basic Wall:Concrete roof support 3:708949",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrA",
+      "name": "Basic Wall:Concrete roof support 3:708951",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr4",
+      "name": "Basic Wall:Concrete roof support 3:708953",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr6",
+      "name": "Basic Wall:Concrete roof support 3:708955",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr0",
+      "name": "Basic Wall:Concrete roof support 3:708957",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr2",
+      "name": "Basic Wall:Concrete roof support 3:708959",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKry",
+      "name": "Basic Wall:Concrete roof support 3:708961",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKr_",
+      "name": "Basic Wall:Concrete roof support 3:708963",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKru",
+      "name": "Basic Wall:Concrete roof support 3:708965",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrw",
+      "name": "Basic Wall:Concrete roof support 3:708967",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrq",
+      "name": "Basic Wall:Concrete roof support 3:708969",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrs",
+      "name": "Basic Wall:Concrete roof support 3:708971",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrm",
+      "name": "Basic Wall:Concrete roof support 3:708973",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKro",
+      "name": "Basic Wall:Concrete roof support 3:708975",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKri",
+      "name": "Basic Wall:Concrete roof support 3:708977",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrk",
+      "name": "Basic Wall:Concrete roof support 3:708979",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKre",
+      "name": "Basic Wall:Concrete roof support 3:708981",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrg",
+      "name": "Basic Wall:Concrete roof support 3:708983",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKra",
+      "name": "Basic Wall:Concrete roof support 3:708985",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrc",
+      "name": "Basic Wall:Concrete roof support 3:708987",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrW",
+      "name": "Basic Wall:Concrete roof support 3:708989",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKrY",
+      "name": "Basic Wall:Concrete roof support 3:708991",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsS",
+      "name": "Basic Wall:Concrete roof support 3:708993",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsU",
+      "name": "Basic Wall:Concrete roof support 3:708995",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsO",
+      "name": "Basic Wall:Concrete roof support 3:708997",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsQ",
+      "name": "Basic Wall:Concrete roof support 3:708999",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsK",
+      "name": "Basic Wall:Concrete roof support 3:709001",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsM",
+      "name": "Basic Wall:Concrete roof support 3:709003",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsG",
+      "name": "Basic Wall:Concrete roof support 3:709005",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsI",
+      "name": "Basic Wall:Concrete roof support 3:709007",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsC",
+      "name": "Basic Wall:Concrete roof support 3:709009",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsE",
+      "name": "Basic Wall:Concrete roof support 3:709011",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs8",
+      "name": "Basic Wall:Concrete roof support 3:709013",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsA",
+      "name": "Basic Wall:Concrete roof support 3:709015",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs4",
+      "name": "Basic Wall:Concrete roof support 3:709017",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs6",
+      "name": "Basic Wall:Concrete roof support 3:709019",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs0",
+      "name": "Basic Wall:Concrete roof support 3:709021",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs2",
+      "name": "Basic Wall:Concrete roof support 3:709023",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKsy",
+      "name": "Basic Wall:Concrete roof support 3:709025",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "1jA2jQwO16GfwrOPG9dKs_",
+      "name": "Basic Wall:Concrete roof support 3:709027",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iUx",
+      "name": "Basic Wall:Concrete roof support 3:710223",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iSa",
+      "name": "Basic Wall:Concrete roof support 3:710352",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iSL",
+      "name": "Basic Wall:Concrete roof support 3:710369",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iS6",
+      "name": "Basic Wall:Concrete roof support 3:710386",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iRm",
+      "name": "Basic Wall:Concrete roof support 3:710404",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iRZ",
+      "name": "Basic Wall:Concrete roof support 3:710423",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ii4",
+      "name": "Basic Wall:Concrete roof support 3:711408",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ii6",
+      "name": "Basic Wall:Concrete roof support 3:711410",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ii0",
+      "name": "Basic Wall:Concrete roof support 3:711412",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ii2",
+      "name": "Basic Wall:Concrete roof support 3:711414",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iiC",
+      "name": "Basic Wall:Concrete roof support 3:711416",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5iiE",
+      "name": "Basic Wall:Concrete roof support 3:711418",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ihU",
+      "name": "Basic Wall:Concrete roof support 3:711466",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ihO",
+      "name": "Basic Wall:Concrete roof support 3:711468",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ihQ",
+      "name": "Basic Wall:Concrete roof support 3:711470",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ih4",
+      "name": "Basic Wall:Concrete roof support 3:711472",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ih6",
+      "name": "Basic Wall:Concrete roof support 3:711474",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ih0",
+      "name": "Basic Wall:Concrete roof support 3:711476",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igN",
+      "name": "Basic Wall:Concrete roof support 3:711523",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igH",
+      "name": "Basic Wall:Concrete roof support 3:711525",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igJ",
+      "name": "Basic Wall:Concrete roof support 3:711527",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igT",
+      "name": "Basic Wall:Concrete roof support 3:711529",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igV",
+      "name": "Basic Wall:Concrete roof support 3:711531",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5igP",
+      "name": "Basic Wall:Concrete roof support 3:711533",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifK",
+      "name": "Basic Wall:Concrete roof support 3:711584",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifM",
+      "name": "Basic Wall:Concrete roof support 3:711586",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifG",
+      "name": "Basic Wall:Concrete roof support 3:711588",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifI",
+      "name": "Basic Wall:Concrete roof support 3:711590",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifS",
+      "name": "Basic Wall:Concrete roof support 3:711592",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ifU",
+      "name": "Basic Wall:Concrete roof support 3:711594",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ieF",
+      "name": "Basic Wall:Concrete roof support 3:711675",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ie9",
+      "name": "Basic Wall:Concrete roof support 3:711677",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ieB",
+      "name": "Basic Wall:Concrete roof support 3:711679",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5itr",
+      "name": "Basic Wall:Concrete roof support 3:711681",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5itt",
+      "name": "Basic Wall:Concrete roof support 3:711683",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5itn",
+      "name": "Basic Wall:Concrete roof support 3:711685",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5isX",
+      "name": "Basic Wall:Concrete roof support 3:711765",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5isZ",
+      "name": "Basic Wall:Concrete roof support 3:711767",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5isj",
+      "name": "Basic Wall:Concrete roof support 3:711769",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5isl",
+      "name": "Basic Wall:Concrete roof support 3:711771",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5isf",
+      "name": "Basic Wall:Concrete roof support 3:711773",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ish",
+      "name": "Basic Wall:Concrete roof support 3:711775",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5irR",
+      "name": "Basic Wall:Concrete roof support 3:711855",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ir5",
+      "name": "Basic Wall:Concrete roof support 3:711857",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ir7",
+      "name": "Basic Wall:Concrete roof support 3:711859",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ir1",
+      "name": "Basic Wall:Concrete roof support 3:711861",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5ir3",
+      "name": "Basic Wall:Concrete roof support 3:711863",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    },
+    {
+      "id": "3PKkBANyjEBOa38Gx$5irD",
+      "name": "Basic Wall:Concrete roof support 3:711865",
+      "type": "IfcWallStandardCase",
+      "parent": "0GlXGtDfr7wx3vKXGecr_q"
+    }
+  ]
+}

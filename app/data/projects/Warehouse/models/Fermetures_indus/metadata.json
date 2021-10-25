@@ -1,0 +1,52 @@
+{
+  "id": "Default Project",
+  "projectId": "1GcVnJu0D82ApRS38ADiOs",
+  "author": "Norsud",
+  "createdAt": "2020-09-15T10:56:40",
+  "schema": "IFC2X3",
+  "creatingApplication": "SolidWorks 2017",
+  "metaObjects": [
+    {
+      "id": "1GcVnJu0D82ApRS38ADiOs",
+      "name": "Default Project",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "1Ls_aDJ91DABRofdtWCkoa",
+      "name": "Default Site",
+      "type": "IfcSite",
+      "parent": "1GcVnJu0D82ApRS38ADiOs"
+    },
+    {
+      "id": "1eWa$QfxDAQvnpJ5M$uPCL",
+      "name": "Default Building",
+      "type": "IfcBuilding",
+      "parent": "1Ls_aDJ91DABRofdtWCkoa"
+    },
+    {
+      "id": "21Q7OMsRPAx9en527M8u$7",
+      "name": "Default Storey",
+      "type": "IfcBuildingStorey",
+      "parent": "1eWa$QfxDAQvnpJ5M$uPCL"
+    },
+    {
+      "id": "1Ctfy3j1H0KQ6Ye6QqoaDz",
+      "name": "IDL-GAR_EXE_NOR_QUA_RXX_ALL",
+      "type": "IfcElementAssembly",
+      "parent": "21Q7OMsRPAx9en527M8u$7"
+    },
+    {
+      "id": "2PfqH1zZ16pePp5Hqkjz8M",
+      "name": "IDlogistic - Norsud",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Ctfy3j1H0KQ6Ye6QqoaDz"
+    },
+    {
+      "id": "3xKlp2Pan2SR8agtYPGnbW",
+      "name": "_Unnamed Element_",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1Ctfy3j1H0KQ6Ye6QqoaDz"
+    }
+  ]
+}

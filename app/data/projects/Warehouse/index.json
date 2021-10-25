@@ -13,6 +13,106 @@
             "saoEnabled": true
         },
         {
+            "id": "Menuiseries",
+            "name": "Menuiseries",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Charpente_beton",
+            "name": "Charpente béton",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Couverture_bardage",
+            "name": "Couverture Bardage",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Electricite",
+            "name": "Electricité",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Gros_oeuvre",
+            "name": "Gros oeuvre",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Portes",
+            "name": "Portes",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "VRD",
+            "name": "VRD",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Panneaux_beton",
+            "name": "Panneaux béton",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "Fermetures_indus",
+            "name": "Fermetures industrielles",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
+            "id": "CVC",
+            "name": "CVC",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
             "id": "Charpente_metallique",
             "name": "Charpente métallique",
             "position": [
@@ -34,6 +134,16 @@
     "viewerContent": {
         "modelsLoaded": [
             "Dallage",
+            "Menuiseries",
+            "Charpente_beton",
+            "Couverture_bardage",
+            "Electricite",
+            "Gros_oeuvre",
+            "Portes",
+            "VRD",
+            "Panneaux_beton",
+            "Fermetures_indus",
+            "CVC",
             "Charpente_metallique"
         ]
     }

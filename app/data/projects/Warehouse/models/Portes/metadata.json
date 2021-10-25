@@ -1,0 +1,532 @@
+{
+  "id": "Project  Number",
+  "projectId": "1i1ZqudaP4wAHjejuSRQ_1",
+  "author": "",
+  "createdAt": "2020-09-15T10:25:40",
+  "schema": "IFC2X3",
+  "creatingApplication": "20200426_1515(x64) - Exporter 20.1.0.1 - Alternate UI 20.1.0.1",
+  "metaObjects": [
+    {
+      "id": "1i1ZqudaP4wAHjejuSRQ_1",
+      "name": "Project  Number",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "1i1ZqudaP4wAHjejuSRQ_3",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "1i1ZqudaP4wAHjejuSRQ_1"
+    },
+    {
+      "id": "1i1ZqudaP4wAHjejuSRQ_0",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "1i1ZqudaP4wAHjejuSRQ_3"
+    },
+    {
+      "id": "1i1ZqudaP4wAHjejxZacD_",
+      "name": "Level 1",
+      "type": "IfcBuildingStorey",
+      "parent": "1i1ZqudaP4wAHjejuSRQ_0"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hy",
+      "name": "P1C120:P1C120:203652",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hz",
+      "name": "Basic Wall:Void wall:203653",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h_",
+      "name": "Basic Wall:Void wall:203654",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h$",
+      "name": "Basic Wall:Void wall:203655",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hm",
+      "name": "P1C120:P1C120:203656",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hn",
+      "name": "P1C120:P1C120:203657",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4ho",
+      "name": "P1C120:P1C120:203658",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hp",
+      "name": "Basic Wall:Void wall:203659",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hq",
+      "name": "P1C120:P1C120:203660",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hr",
+      "name": "Basic Wall:Void wall:203661",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hs",
+      "name": "Basic Wall:Void wall:203662",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4ht",
+      "name": "Basic Wall:Void wall:203663",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4he",
+      "name": "Basic Wall:Void wall:203664",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hf",
+      "name": "P1C120:P1C120:203665",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hg",
+      "name": "P1C120:P1C120:203666",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hh",
+      "name": "P1C120:P1C120:203667",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hi",
+      "name": "P1C120:P1C120:203668",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hj",
+      "name": "Basic Wall:Void wall:203669",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hk",
+      "name": "PB_1V_NCF:PB_1V_NCF:203670",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4ha",
+      "name": "Basic Wall:Void wall:203676",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hb",
+      "name": "Basic Wall:Void wall:203677",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hO",
+      "name": "PB_1V_NCF:PB_1V_NCF:203680",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hP",
+      "name": "PB_1V_NCF:PB_1V_NCF:203681",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hQ",
+      "name": "PB_1V_NCF:PB_1V_NCF:203682",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hR",
+      "name": "PB_1V_NCF:PB_1V_NCF:203683",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hS",
+      "name": "PB_1V_NCF:PB_1V_NCF:203684",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hT",
+      "name": "PB_1V_NCF:PB_1V_NCF:203685",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hU",
+      "name": "PB_1V_NCF:PB_1V_NCF:203686",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hV",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203687",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hG",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203688",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hH",
+      "name": "Basic Wall:Void wall:203689",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hI",
+      "name": "Basic Wall:Void wall:203690",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hJ",
+      "name": "Basic Wall:Void wall:203691",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hK",
+      "name": "Basic Wall:Void wall:203692",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hL",
+      "name": "Basic Wall:Void wall:203693",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hM",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203694",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hN",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203695",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h8",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203696",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h9",
+      "name": "HV-SMF-EI-120:HV-SMF-EI-120:203697",
+      "type": "IfcWindow",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hA",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 900+500mm:203698",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hC",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203700",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4hF",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203703",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h0",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203704",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h1",
+      "name": "Basic Wall:Void wall:203705",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h2",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203706",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h4",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203708",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4h6",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI60:203710",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gu",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 1100mm:203712",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gv",
+      "name": "Basic Wall:Void wall:203713",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gw",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 1025mm:203714",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gy",
+      "name": "Basic Wall:Void wall:203716",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gz",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 1025mm:203717",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4g_",
+      "name": "Basic Wall:Void wall:203718",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4g$",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 1025mm:203719",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gm",
+      "name": "Basic Wall:Void wall:203720",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gn",
+      "name": "PB_2V_NCF:PB_2V_NCF:203721",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gf",
+      "name": "Basic Wall:Void wall:203729",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gW",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203736",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gX",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203737",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gY",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203738",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gZ",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203739",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4ga",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203740",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gb",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203741",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gc",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203742",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gd",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203743",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gO",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203744",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gP",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203745",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gQ",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203746",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gR",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203747",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gS",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203748",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gT",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203749",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gV",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120:203751",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gH",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 900+500mm:203753",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gJ",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120 1150 mm:203755",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gK",
+      "name": "Basic Wall:Void wall:203756",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gL",
+      "name": "PB_1V_CF64_EI120:PB_1V_CF64_EI120 2:203757",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "0Bp93CbY15Iw1JLpJGz4gM",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 900+500mm:203758",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "2jths_uaLByusRpsa4FMAe",
+      "name": "Basic Wall:Void wall:222980",
+      "type": "IfcWallStandardCase",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "2jths_uaLByusRpsa4FN4J",
+      "name": "Doorset_Porte Haute sécurité CR4 Sortie contrôlée_ASSA ABLOY_Hardware 3D.rfa:830x2150mm (900x2200 mm):226495",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "2jths_uaLByusRpsa4FN5j",
+      "name": "Identity and Access Solutions_EXEA Control_ASSA ABLOY FR_01746A41_0:EXEA Control_1746A41_0:226497",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "2jths_uaLByusRpsa4FN5k",
+      "name": "Architectural Hardware_Plaque de tirage BIGSUR Evo_1746_13_0:Plaque de tirage BIGSUR Evo_1746_13_0:226498",
+      "type": "IfcBuildingElementProxy",
+      "parent": "1i1ZqudaP4wAHjejxZacD_"
+    },
+    {
+      "id": "1i1ZqudaP4wAHjejxZacvO",
+      "name": "Level 2",
+      "type": "IfcBuildingStorey",
+      "parent": "1i1ZqudaP4wAHjejuSRQ_0"
+    },
+    {
+      "id": "2jths_uaLByusRpsa4FN0i",
+      "name": "PB_2V_CF64_EI120:PB_2V_CF64_EI120 900+500mm:226688",
+      "type": "IfcDoor",
+      "parent": "1i1ZqudaP4wAHjejxZacvO"
+    }
+  ]
+}
