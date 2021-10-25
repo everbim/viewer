@@ -24,7 +24,7 @@ class ObjectContextMenu extends ContextMenu {
             doAction: (context) => {
                 const objectId = context.entity.id;
                 console.log(objectId);
-                window.open("https://hub.tech-and-dev.fr/version-test/equipment/" + objectId + "?tab=Overview");
+                window.open("https://hub.tech-and-dev.fr/version-test/equipment/?uuid=" + objectId + "&tab=Overview");
             }
         }]);
 
