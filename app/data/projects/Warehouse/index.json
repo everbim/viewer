@@ -1,8 +1,7 @@
 {
     "id": "Warehouse",
     "name": "EverBim Warehouse",
-    "models": [
-        {
+    "models": [{
             "id": "Dallage",
             "name": "Dallage",
             "position": [
@@ -143,5 +142,16 @@
             "Fermetures_indus",
             "Charpente_metallique"
         ]
+    },
+    "viewerState": {
+        "tabOpen": "objects",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1,
+        "setCamera": {
+            "eye": [-40.23, 10.67, -110.26],
+            "look": [4.39, 10.72, 0.89],
+            "up": [0.10, 100.97, 0.50]
+        }
     }
 }
