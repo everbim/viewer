@@ -1,8 +1,7 @@
 {
     "id": "Warehouse",
     "name": "EverBim Warehouse",
-    "models": [
-        {
+    "models": [{
             "id": "Dallage",
             "name": "Dallage",
             "position": [
@@ -154,5 +153,16 @@
             "Panneaux_beton",
             "Charpente_metallique"
         ]
+    },
+    "viewerState": {
+        "tabOpen": "objects",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1,
+        "setCamera": {
+            "eye": [-18.683732434425735, 37.87432534061427, -82.43263242872833],
+            "look": [60.28835747863994, -5.409283340396016, 63.876164242657],
+            "up": [0.11966702612141066, 0.9677435830249105, 0.22170286505448208]
+        }
     }
 }
