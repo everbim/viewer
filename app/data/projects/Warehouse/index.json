@@ -13,6 +13,16 @@
             "saoEnabled": true
         },
         {
+            "id": "Sprinkler",
+            "name": "Sprinkler",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "saoEnabled": true
+        },
+        {
             "id": "Menuiseries",
             "name": "Menuiseries",
             "position": [
@@ -139,8 +149,9 @@
             "Gros_oeuvre",
             "Portes",
             "VRD",
+            "Sprinkler",
+            "CVC",
             "Panneaux_beton",
-            "Fermetures_indus",
             "Charpente_metallique"
         ]
     }

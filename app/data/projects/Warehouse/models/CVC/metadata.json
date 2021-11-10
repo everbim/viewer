@@ -20,7 +20,7 @@
     },
     {
       "id": "0GlXGtDfr7wx3vKXJNOI91",
-      "name": "",
+      "name": null,
       "type": "IfcBuilding",
       "parent": "3EYUxc2ab4O9$dnYuwBHCl"
     },
@@ -223,12 +223,6 @@
       "parent": "0GlXGtDfr7wx3vKXGecrrZ"
     },
     {
-      "id": "039xMuzrH9ZP5eG3GpqWDz",
-      "name": "BuildingElementProxy 1",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGecrrZ"
-    },
-    {
       "id": "3dYVc0xen4Ngg8LozBzDne",
       "name": "CLIM BUREAUX",
       "type": "IfcBuildingElementProxy",
@@ -241,20 +235,8 @@
       "parent": "0GlXGtDfr7wx3vKXGecrrZ"
     },
     {
-      "id": "3Vo$WFdzDAehIjl1l7$1zt",
-      "name": "BuildingElementProxy 2",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGecrrZ"
-    },
-    {
       "id": "3AWPbzMyjD69gPG2Ts3KMy",
       "name": "CLIM BUREAUX",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGecrrZ"
-    },
-    {
-      "id": "0fegMumjj6UeJsZCkccUYw",
-      "name": "BuildingElementProxy 3",
       "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGecrrZ"
     },
@@ -422,7 +404,7 @@
     },
     {
       "id": "23rPIHKgfCqgs3Tc9P5nHr",
-      "name": "Piège à sons cylindr. ",
+      "name": "Piège à sons cylindr.",
       "type": "IfcFlowTreatmentDevice",
       "parent": "0GlXGtDfr7wx3vKXGecrrZ"
     },
@@ -1207,18 +1189,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkEP"
     },
     {
-      "id": "3VT2VbVYb53u3Q4YRAybXL",
-      "name": "BuildingElementProxy 4",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "2612Vp4AD00Os2tPjXQT_l",
-      "name": "BuildingElementProxy 5",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
       "id": "3yXryPMo5CePXfP_VAFs2N",
       "name": "BOUCHE REPRISE",
       "type": "IfcFlowTerminal",
@@ -1390,30 +1360,6 @@
       "id": "1_OyvD8_HA$xq2ATzJVtGz",
       "name": "Tube flexible",
       "type": "IfcFlowSegment",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "04oY_OgCf7JhuIcwBeCeYL",
-      "name": "BuildingElementProxy 6",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "0VSW0AAr96Ax1zW3mqMi0A",
-      "name": "BuildingElementProxy 7",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "2MMmTVP7LEiRqkkjllafWt",
-      "name": "BuildingElementProxy 8",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "25CNo11B56KhzSKDoWFD6E",
-      "name": "BuildingElementProxy 9",
-      "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGedkEP"
     },
     {
@@ -3211,48 +3157,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkEP"
     },
     {
-      "id": "2dCnhywWfEownGTbIH9xOW",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "1j$uaIuF90QfLt_ITZ_tco",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "3gi9ScCk10NBc0RaH3S3Rl",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "3nH3Tuz$X7TRlo2Bc00TUP",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "32oOAW9aD7SuJeYtbphqrD",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "3YeWodWrvFYxKy7Oux49aA",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "04U8upnUT5Z9EjTGcM6OlS",
-      "name": "Canalisation verticale Sanitaire",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
       "id": "2MXno4WjH6BOpgGTrjiSUF",
       "name": "Tube PER classes 2/4/5",
       "type": "IfcProxy",
@@ -3451,36 +3355,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkEP"
     },
     {
-      "id": "3otre3qYDAnfqObIMB5rVH",
-      "name": "BuildingElementProxy 10",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "2Qi_7yRl949RHLSXWjgxhJ",
-      "name": "BuildingElementProxy 11",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "3jxslweRTAa8zPgOtEp3eq",
-      "name": "BuildingElementProxy 12",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "2EZaCk9gnFagaFYXJiLcdl",
-      "name": "BuildingElementProxy 13",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
-      "id": "1S5e8jDnfA7Ah6bHvgI10Z",
-      "name": "BuildingElementProxy 14",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkEP"
-    },
-    {
       "id": "25TV0mMAX54OWVMJgvEUqn",
       "name": "WC PMR",
       "type": "IfcBuildingElementProxy",
@@ -3539,12 +3413,6 @@
       "name": "RDC",
       "type": "IfcBuildingStorey",
       "parent": "0GlXGtDfr7wx3vKXJNOI91"
-    },
-    {
-      "id": "1fc_0mUmv2DxBq_x38DUCs",
-      "name": "Mur",
-      "type": "IfcWallStandardCase",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
       "id": "3xtdo9v1v3BuewqUfSz_77",
@@ -4045,18 +3913,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
-      "id": "1c5jnDKEfEp8RjYf5LfyPl",
-      "name": "BuildingElementProxy 15",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "1Ud0oXzPD84BGeCwyWFHqR",
-      "name": "BuildingElementProxy 16",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
       "id": "35nyGvW25B_9aLKBfRjQMX",
       "name": "Pièce en té circulaire",
       "type": "IfcFlowFitting",
@@ -4423,18 +4279,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
-      "id": "39676sBXn5qOahPsnrxtLV",
-      "name": "BuildingElementProxy 17",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "1rUh2Lu4vA29FjwDwy9QFu",
-      "name": "BuildingElementProxy 18",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
       "id": "2fVQCW8m92fwO0prxQLXpn",
       "name": "Pièce en té circulaire",
       "type": "IfcFlowFitting",
@@ -4591,12 +4435,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
-      "id": "3juHCqsyj0jgHTwChiknAq",
-      "name": "BuildingElementProxy 19",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
       "id": "36$uhi$q954PVSFMhITs1t",
       "name": "Pièce en té circulaire",
       "type": "IfcFlowFitting",
@@ -4612,18 +4450,6 @@
       "id": "01sev8XvD6kuvFt9hLb9ZN",
       "name": "Tube",
       "type": "IfcFlowSegment",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0B6_p1Xr13jfHnenC3u9a7",
-      "name": "BuildingElementProxy 20",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0fji$6iyPBWwBFwvut8CtK",
-      "name": "BuildingElementProxy 21",
-      "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
@@ -5155,12 +4981,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
-      "id": "0khjaqmi1A3u2LIkL56Wy6",
-      "name": "BuildingElementProxy 25",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
       "id": "3nNS3EAWjDBRNPCzYXbAmi",
       "name": "Pièce en té circulaire",
       "type": "IfcFlowFitting",
@@ -5224,12 +5044,6 @@
       "id": "2qP3EbLOrBAwuZ2cjwd8T9",
       "name": "Tube",
       "type": "IfcFlowSegment",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0jUV2feCT8yuxNynBNSD9a",
-      "name": "BuildingElementProxy 26",
-      "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
@@ -6433,12 +6247,6 @@
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
-      "id": "1ZU5cj_yn6$Q25zzrS5$AI",
-      "name": "Tubes HTA PN16",
-      "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
       "id": "2lnuhMAor43vM_TgYhIGJl",
       "name": "Tube PER classes 2/4/5",
       "type": "IfcProxy",
@@ -6592,246 +6400,6 @@
       "id": "1CnfC4fuv4QRhdNppSRhc1",
       "name": "Tubes HTA-F PN16",
       "type": "IfcProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2sewacArDB18sKkMwMpP9h",
-      "name": "BuildingElementProxy 27",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3NiTKAkeH1UBGYXmFbHXOz",
-      "name": "BuildingElementProxy 28",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "1l5jzvzV97lvO3DqRNNlrR",
-      "name": "BuildingElementProxy 29",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0Zq77vc6jCmhiJKC7fgmgC",
-      "name": "BuildingElementProxy 30",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2Es1lNi2rE18TPuwv$PO22",
-      "name": "BuildingElementProxy 31",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2b5fteH0f9PP1GXU3BBchF",
-      "name": "BuildingElementProxy 32",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2jkWEbShH19hGn5Qdc0qC2",
-      "name": "BuildingElementProxy 33",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0hEvvbpIz5EO362gPiUZOp",
-      "name": "BuildingElementProxy 34",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0dEP7vXr9CfPzjsY4Wx_b1",
-      "name": "BuildingElementProxy 35",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2afmFvuwj2iPQslixS9nRq",
-      "name": "BuildingElementProxy 36",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "1uQ3qbp$T0m8$JgtBvB0Cp",
-      "name": "BuildingElementProxy 37",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "29ryZ0khTDcwbFMc7GA$X3",
-      "name": "BuildingElementProxy 38",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3zPlu3S4z4nPQUm4Usgf6q",
-      "name": "BuildingElementProxy 39",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0cdh3XQez2m9cKFhk_q0jl",
-      "name": "BuildingElementProxy 40",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "35eGzIkR93ggxpJl7DveUb",
-      "name": "BuildingElementProxy 41",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0P_VjizA14OB2Gskytcf2l",
-      "name": "BuildingElementProxy 42",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0I3OVZspP8OOkeDlBAlUxs",
-      "name": "BuildingElementProxy 43",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2dHnpgJTbDLvYFnAgOTi5Y",
-      "name": "BuildingElementProxy 44",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0aJritTtrBsRLCDhr8bof4",
-      "name": "BuildingElementProxy 45",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0GEqABCRz8uhoADCYAwrrm",
-      "name": "BuildingElementProxy 46",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3nrYZXdnX258ZNIUrLYY0r",
-      "name": "BuildingElementProxy 47",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2Gc$y6$3L87ReK0r1s5Hjs",
-      "name": "BuildingElementProxy 48",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2Q9ki6zqLCreQNnVHpdobI",
-      "name": "BuildingElementProxy 49",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3vMyQGkLbFuui0uTPJRuMM",
-      "name": "BuildingElementProxy 50",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0gL2Y0eKzDlhlUtJTG$3SR",
-      "name": "BuildingElementProxy 51",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "28vshd_kDEpeLug$Fho_q_",
-      "name": "BuildingElementProxy 52",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "22HcnpIcL4beDfp9aIVVk8",
-      "name": "BuildingElementProxy 53",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "268$XJJK5BLAp$BeqoXIXi",
-      "name": "BuildingElementProxy 54",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "34alZ98Wv4e8tB66pbZ2xV",
-      "name": "BuildingElementProxy 55",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0hQ6J2voD5s8ONoRhJmykL",
-      "name": "BuildingElementProxy 56",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3Clsh5DbPBrQHbRl7N0bQI",
-      "name": "BuildingElementProxy 57",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "261O3rfGX3fOxKsGrceezw",
-      "name": "BuildingElementProxy 58",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0LB3vl$G51vwivg4AnZvNs",
-      "name": "BuildingElementProxy 59",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2HxpYS4bDDag1KnepGyWdT",
-      "name": "BuildingElementProxy 60",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "3nzILl0lP7KQCPts7XsWPA",
-      "name": "BuildingElementProxy 61",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0rGbDiXH97eOvkqXnSNh_d",
-      "name": "BuildingElementProxy 62",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "0DgjZ00rb8tOH8Z8tlENFL",
-      "name": "BuildingElementProxy 63",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2oNfqxKrT0avmqF5Mf1yXm",
-      "name": "BuildingElementProxy 64",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "05RO3BQ7T5oOlvy1vzpZku",
-      "name": "BuildingElementProxy 65",
-      "type": "IfcBuildingElementProxy",
-      "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2ymfQk7Hn5m82syRlS72Ul",
-      "name": "BuildingElementProxy 66",
-      "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
@@ -6998,13 +6566,13 @@
     },
     {
       "id": "1DL2Adx5XDgOHd$gyZEUfT",
-      "name": "Piège à sons cylindr. ",
+      "name": "Piège à sons cylindr.",
       "type": "IfcFlowTreatmentDevice",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
     {
       "id": "14fe94qGbCtBjIaAxs96df",
-      "name": "Piège à sons cylindr. ",
+      "name": "Piège à sons cylindr.",
       "type": "IfcFlowTreatmentDevice",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
     },
@@ -8213,12 +7781,6 @@
       "name": "ROBINET",
       "type": "IfcBuildingElementProxy",
       "parent": "0GlXGtDfr7wx3vKXGedkw$"
-    },
-    {
-      "id": "2VXVxMcVH8UPgPD$h$9R78",
-      "name": "VS",
-      "type": "IfcBuildingStorey",
-      "parent": "0GlXGtDfr7wx3vKXJNOI91"
     }
   ]
 }
