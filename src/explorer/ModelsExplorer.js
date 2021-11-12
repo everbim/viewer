@@ -1,8 +1,8 @@
-import {XKTLoaderPlugin, math} from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
-import {Controller} from "../Controller.js";
-import {ModelIFCObjectColors} from "../IFCObjectDefaults/ModelIFCObjectColors.js";
-import {ViewerIFCObjectColors} from "../IFCObjectDefaults/ViewerIFCObjectColors.js";
-import {ModelsContextMenu} from "../contextMenus/ModelsContextMenu.js";
+import { XKTLoaderPlugin, math } from "@xeokit/xeokit-sdk/dist/xeokit-sdk.es.js";
+import { Controller } from "../Controller.js";
+import { ModelIFCObjectColors } from "../IFCObjectDefaults/ModelIFCObjectColors.js";
+import { ViewerIFCObjectColors } from "../IFCObjectDefaults/ViewerIFCObjectColors.js";
+import { ModelsContextMenu } from "../contextMenus/ModelsContextMenu.js";
 
 const tempVec3a = math.vec3();
 
@@ -57,6 +57,7 @@ class ModelsExplorer extends Controller {
             this._projectId = projectId;
             this._modelsInfo = {};
             this._numModels = 0;
+
             this._parseProject(projectInfo, done);
             if (this._numModelsLoaded < this._numModels) {
                 this._loadModelsButtonElement.classList.remove("disabled");
@@ -78,11 +79,17 @@ class ModelsExplorer extends Controller {
     _parseProject(projectInfo, done) {
         this._buildModelsMenu(projectInfo);
         this._parseViewerConfigs(projectInfo);
+        var idModelParam = this.getParam('lot')
+        if (idModelParam != null) {
+            let myArray = idModelParam.split(',');
+            projectInfo.viewerContent.modelsLoaded = myArray;
+        }
         this._parseViewerContent(projectInfo, () => {
             this._parseViewerState(projectInfo, () => {
                 done();
             });
         });
+
     }
 
     _buildModelsMenu(projectInfo) {
@@ -208,6 +215,20 @@ class ModelsExplorer extends Controller {
         });
     }
 
+    getParam(param) {
+        var vars = {};
+        window.location.href.replace(location.hash, '').replace(
+            /[?&]+([^=&]+)=?([^&]*)?/gi, // regexp
+            function(m, key, value) { // callback
+                vars[key] = value !== undefined ? value : '';
+            }
+        );
+
+        if (param) {
+            return vars[param] ? vars[param] : null;
+        }
+        return vars;
+    }
     getLoadedProjectId() {
         return this._projectId;
     }
@@ -402,4 +423,4 @@ class ModelsExplorer extends Controller {
     }
 }
 
-export {ModelsExplorer};
+export { ModelsExplorer };
