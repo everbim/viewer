@@ -131,7 +131,22 @@
         
         bimViewer.loadProject(projectId, () => {
                 const modelId = requestParams.modelId;
-                if (modelId) {
+                var idModelParam = $_GET('lot')
+if(idModelParam!=null){
+bimViewer.unloadAllModels();
+                console.log(idModelParam);
+                let myArray = idModelParam.split(',');
+                console.log(myArray);
+for (var i = 0; i < myArray.length; i++) {
+console.log(myArray[i]);
+  bimViewer.loadModel(myArray[i]);
+}
+
+}
+
+
+                else if (modelId) {
+			console.log(modelId);
                     bimViewer.loadModel(modelId);
                 }
                 const tab = requestParams.tab;
@@ -255,6 +270,20 @@
 
         window.bimViewer = bimViewer;
     }
+function $_GET(param) {
+    var vars = {};
+    window.location.href.replace(location.hash, '').replace(
+        /[?&]+([^=&]+)=?([^&]*)?/gi, // regexp
+        function(m, key, value) { // callback
+            vars[key] = value !== undefined ? value : '';
+        }
+    );
+
+    if (param) {
+        return vars[param] ? vars[param] : null;
+    }
+    return vars;
+}
 
 </script>
 

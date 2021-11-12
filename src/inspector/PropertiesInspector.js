@@ -1,4 +1,4 @@
-import {Controller} from "../Controller.js";
+import { Controller } from "../Controller.js";
 
 /** @private */
 class PropertiesInspector extends Controller {
@@ -70,7 +70,7 @@ class PropertiesInspector extends Controller {
         html.push(`<p class="subsubtitle no-object-selected-warning">No object inspected. Right-click or long-tab an object and select \'Inspect Properties\' to view its properties here.</p>`);
         html.push(`</div>`);
         const htmlStr = html.join("");
-       this._propertiesElement.innerHTML = htmlStr;
+        this._propertiesElement.innerHTML = htmlStr;
     }
 
     _setPropertySets(metaObject, propertySets) {
@@ -85,6 +85,7 @@ class PropertiesInspector extends Controller {
                 html.push(`<tr><td class="td1">Class:</td><td class="td2">${metaObject.type}</td></tr>`);
             }
             html.push(`<tr><td class="td1">UUID:</td><td class="td2">${metaObject.id}</td></tr>`);
+            html.push(`<tr><td class="td1">More info:</td><td class="td2"><a href="https://hub.tech-and-dev.fr/version-test/equipment/?uuid=${metaObject.id} &tab=Overview" target="_blank">External Site</a></td></tr>`);
             html.push('</table>');
             if (!propertySets || propertySets.length === 0) {
                 html.push(`<p class="subtitle xeokit-no-prop-set-warning">No properties sets found for this object.</p>`);
@@ -133,4 +134,4 @@ class PropertiesInspector extends Controller {
     }
 }
 
-export {PropertiesInspector};
+export { PropertiesInspector };
